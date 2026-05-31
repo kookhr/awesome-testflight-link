@@ -33,9 +33,6 @@ Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 - **Report issue**: [Open an issue](../../issues/new)
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kookhr/awesome-testflight-link&type=Date)](https://star-history.com/#kookhr/awesome-testflight-link&Date)
 
 ## Author
 
