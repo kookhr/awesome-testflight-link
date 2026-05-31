@@ -1,37 +1,27 @@
 # Awesome Testflight App List
-Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
-> **🌐 在线浏览**: [tf.kook.qzz.io](https://tf.kook.qzz.io/) — 可视化查看哪些应用正在测试，支持筛选、搜索和分类浏览
+> 🌐 **在线浏览**: [tf.kook.qzz.io](https://tf.kook.qzz.io/) — 可视化查看哪些应用正在测试，支持搜索、筛选和分类浏览
 
-## 🚀 Quick Navigation
-- [iOS Apps](#ios-app-list)
-- [iPadOS Apps](#ipados-app-list)
-- [macOS Apps](#macos-app-list)
-- [tvOS Apps](#tvos-app-list)
-- [Signup Required Apps](#signup-required-apps)
+Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 
-## 📊 Available Status
-* **Y: Yes** - Apps currently accepting new testers
-* **F: Full** - Apps that have reached their tester limit  
-* **N: No** - Apps not currently accepting testers
-* **D: Deleted** - Apps that have been removed from TestFlight
+#{STATS_SUMMARY}
 
-## 🔍 How to Use This List
-1. **Browse by Platform**: Use the navigation links above to jump to your desired platform
-2. **Find What You Need**: Look for apps with "Available" status for immediate access
-3. **Stay Updated**: Check back regularly as statuses change frequently
+## 📊 Status Legend
 
----
+| Status | Meaning |
+| --- | --- |
+| ✅ **Y** | Currently accepting new testers |
+| ⚠️ **F** | Tester limit reached |
+| ❌ **N** | Not accepting testers |
+| 🗑️ **D** | Removed from TestFlight |
 
-#{iOS_APPS}
+## 🔗 Quick Links
 
-#{iPadOS_APPS}
-
-#{macOS_APPS}
-
-#{tvOS_APPS}
-
-#{SIGNUP_APPS}
+- **Browse apps**: [tf.kook.qzz.io](https://tf.kook.qzz.io/)
+- **Raw data**: [links.json](data/links.json)
+- **Add a link**: Use the [Add A TestFlight Link](../../actions/workflows/add_link.yml) workflow
+- **Report issue**: [Open an issue](../../issues/new)
+- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Star History
 
@@ -42,5 +32,3 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 Fork of [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) by [Pluwen](https://twitter.com/pluwen).
 
 Maintained by [@kookhr](https://github.com/kookhr).
-
-🌐 Online viewer: [tf.kook.qzz.io](https://tf.kook.qzz.io/)
