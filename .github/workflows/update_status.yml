@@ -5,6 +5,9 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -49,4 +52,3 @@ jobs:
           git checkout main
           git merge upstream/main --allow-unrelated-histories
           git push origin main
-
