@@ -4,16 +4,16 @@
 
 Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 
-## 📈 Overview (846 apps total, 177 currently accepting testers)
+## 📈 Overview (846 apps total, 179 currently accepting testers)
 
 
 | Platform | ✅ Available | ⚠️ Full | ❌ Closed | 🗑️ Removed | Total |
 | --- | --- | --- | --- | --- | --- |
-| iOS | 167 | 70 | 570 | 12 | 819 |
+| iOS | 169 | 68 | 570 | 12 | 819 |
 | iPadOS | 6 | 4 | 3 | 0 | 13 |
 | macOS | 9 | 2 | 15 | 1 | 27 |
 | tvOS | 3 | 3 | 1 | 0 | 7 |
-| **Total** | **177** | **73** | **583** | **13** | **846** |
+| **Total** | **179** | **71** | **583** | **13** | **846** |
 
 
 ## 📊 Status Legend
@@ -33,6 +33,9 @@ Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 - **Report issue**: [Open an issue](../../issues/new)
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kookhr/awesome-testflight-link&type=Date)](https://star-history.com/#kookhr/awesome-testflight-link&Date)
 
 ## Author
 
