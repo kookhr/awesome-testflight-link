@@ -33,12 +33,10 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/awesome-testflight-link&type=Date)](https://star-history.com/#pluwen/awesome-testflight-link&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kookhr/awesome-testflight-link&type=Date)](https://star-history.com/#kookhr/awesome-testflight-link&Date)
 
 ## Author
 
-* [Pluwen](https://twitter.com/pluwen)
+Fork of [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) by [Pluwen](https://twitter.com/pluwen).
 
-Special thanks to [@tom-snow](https://github.com/tom-snow) for adding the [Github Action workflow](./docs/GITHUB_ACTION.md) to this repository.
-
-If you wanna fork this repo, please reading [this](./docs/GITHUB_ACTION.md) first!
+Maintained by [@kookhr](https://github.com/kookhr).

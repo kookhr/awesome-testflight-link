@@ -8,7 +8,7 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
-    if: github.repository == 'kookhr/awesome-testflight-link'
+    if: github.repository_owner == 'kookhr'
     steps:
       - uses: actions/checkout@v6
       - name: Setup uv
@@ -34,7 +34,7 @@ jobs:
 
   forked-repo:
     runs-on: ubuntu-latest
-    if: github.repository != 'pluwen/awesome-testflight-link'
+    if: github.repository_owner != 'kookhr'
     steps:
       - uses: actions/checkout@v6
         with:
@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git remote add upstream https://github.com/pluwen/awesome-testflight-link.git
+          git remote add upstream https://github.com/kookhr/awesome-testflight-link.git
           git fetch upstream
           git checkout main
           git merge upstream/main --allow-unrelated-histories

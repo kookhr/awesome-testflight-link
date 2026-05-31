@@ -4125,14 +4125,6 @@
       ],
       "last_modify": "2025-12-22"
     },
-    "udovXNsR": {
-      "app_name": "WhaleBlue",
-      "status": "N",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2025-12-22"
-    },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
       "status": "F",
@@ -4262,14 +4254,6 @@
       "last_modify": "2026-04-16"
     },
     "eruM03qY": {
-      "app_name": "Yamble",
-      "status": "N",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2025-12-22"
-    },
-    "sWspgco2": {
       "app_name": "Yamble",
       "status": "N",
       "tables": [
@@ -4765,14 +4749,6 @@
       ],
       "last_modify": "2026-03-28"
     },
-    "w1GVbaMO": {
-      "app_name": "Microsoft Loop beta",
-      "status": "N",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2025-12-22"
-    },
     "IjV5V0zL": {
       "app_name": "Retro 2",
       "status": "D",
@@ -4967,14 +4943,6 @@
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
-      "status": "N",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2025-12-22"
-    },
-    "q4ha2nsh": {
-      "app_name": "Windows App Mobile",
       "status": "N",
       "tables": [
         "ios"
@@ -5471,14 +5439,6 @@
       ],
       "last_modify": "2025-12-22"
     },
-    "90DvGBOE": {
-      "app_name": "Onion Browser",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-15"
-    },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
       "status": "Y",
@@ -5752,7 +5712,7 @@
       "last_modify": "2025-12-22"
     },
     "pm1jk978": {
-      "app_name": "iCost记账-快速简洁好用的记账理财助手&amp;记账软件",
+      "app_name": "iCost记账-快速简洁好用的记账理财助手&记账软件",
       "status": "F",
       "tables": [
         "macos"
@@ -6191,14 +6151,6 @@
       ],
       "last_modify": "2025-12-22"
     },
-    "iSTXkF4K": {
-      "app_name": "微信输入法",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-17"
-    },
     "dTUO1uyt": {
       "app_name": "番茄小说 - 热门短剧全本小说电子书阅读器",
       "status": "Y",
@@ -6206,22 +6158,6 @@
         "ios"
       ],
       "last_modify": "2026-04-20"
-    },
-    "YthnpWFf": {
-      "app_name": "豆包",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-04-09"
-    },
-    "Hm0miNz8": {
-      "app_name": "抖音",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-04-02"
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
@@ -6238,14 +6174,6 @@
         "ios"
       ],
       "last_modify": "2026-05-31"
-    },
-    "DdscKm1S": {
-      "app_name": "酷狗概念版",
-      "status": "F",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-10"
     },
     "RDuRYxRE": {
       "app_name": "优酷视频HD",
@@ -6394,7 +6322,7 @@
       "last_modify": "2026-05-19"
     },
     "t1xT7SXk": {
-      "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
+      "app_name": "Bonvo.Ski - 3D Ski & Snowboard",
       "status": "N",
       "tables": [
         "ios"
@@ -6483,7 +6411,7 @@
       "last_modify": "2026-05-20"
     },
     "dsNjHxjb": {
-      "app_name": "Hiddify Proxy &amp; VPN",
+      "app_name": "Hiddify Proxy & VPN",
       "status": "F",
       "tables": [
         "ios",
@@ -6516,7 +6444,7 @@
       "last_modify": "2026-05-09"
     },
     "yXfSFBFp": {
-      "app_name": "SwiftServer - Monitoring &amp; SSH",
+      "app_name": "SwiftServer - Monitoring & SSH",
       "status": "N",
       "tables": [
         "macos"
@@ -6540,7 +6468,7 @@
       "last_modify": "2026-05-31"
     },
     "gFZnVU2t": {
-      "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
+      "app_name": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
       "status": "Y",
       "tables": [
         "ios",
@@ -6632,7 +6560,7 @@
       "last_modify": "2026-02-07"
     },
     "yApyT263": {
-      "app_name": "Moshi: SSH &amp; MOSH Terminal",
+      "app_name": "Moshi: SSH & MOSH Terminal",
       "status": "D",
       "tables": [
         "ios"
@@ -6725,7 +6653,7 @@
       "last_modify": "2026-05-11"
     },
     "RY9c1xAr": {
-      "app_name": "Streamline - IPTV &amp; M3U Editor",
+      "app_name": "Streamline - IPTV & M3U Editor",
       "status": "Y",
       "tables": [
         "ios"

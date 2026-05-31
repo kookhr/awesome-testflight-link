@@ -9,7 +9,7 @@ LINKS_JSON = DATA_DIR / "links.json"
 README_TEMPLATE_FILE = DATA_DIR / "README.template"
 README_FILE = SCRIPT_DIR.parent / "README.md"
 
-TODAY = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
+TODAY = datetime.datetime.now(datetime.UTC).date().strftime("%Y-%m-%d")
 
 STATUS_INFO = {
     'Y': {'name': 'Available', 'description': 'Apps currently accepting new testers'},

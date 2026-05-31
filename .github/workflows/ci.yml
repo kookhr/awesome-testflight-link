@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Set up Python with uv
+        run: uv venv && uv sync --locked
+
+      - name: Validate links.json schema
+        run: |
+          uv run python -c "
+          import json, sys
+          data = json.load(open('data/links.json'))
+          links = data.get('_links', {})
+          errors = []
+          valid_status = {'Y', 'F', 'N', 'D'}
+          valid_tables = {'ios', 'ipados', 'macos', 'tvos'}
+          for k, v in links.items():
+              if not isinstance(k, str) or len(k) < 4:
+                  errors.append(f'Invalid key: {k}')
+              for field in ('app_name', 'status', 'tables', 'last_modify'):
+                  if field not in v:
+                      errors.append(f'{k}: missing {field}')
+              if v.get('status') not in valid_status:
+                  errors.append(f'{k}: invalid status {v.get(\"status\")}')
+              for t in v.get('tables', []):
+                  if t not in valid_tables:
+                      errors.append(f'{k}: invalid table {t}')
+              import re
+              if not re.match(r'^\d{4}-\d{2}-\d{2}$', v.get('last_modify', '')):
+                  errors.append(f'{k}: invalid date {v.get(\"last_modify\")}')
+              # Check for HTML entities in app_name
+              import html as html_mod
+              if html_mod.unescape(v.get('app_name', '')) != v.get('app_name', ''):
+                  errors.append(f'{k}: app_name contains HTML entities')
+          if errors:
+              for e in errors[:20]:
+                  print(f'  ERROR: {e}')
+              if len(errors) > 20:
+                  print(f'  ... and {len(errors)-20} more errors')
+              sys.exit(1)
+          print(f'Validation passed: {len(links)} links OK')
+          "
+
+      - name: Lint Python
+        run: uv run python -m py_compile scripts/utils.py scripts/add_link.py scripts/del_link.py scripts/update_status.py scripts/order_status.py
+
+      - name: Verify README generation
+        run: |
+          cp README.md /tmp/readme_before.md
+          uv run python scripts/order_status.py
+          # Just verify it generates without error
+          echo "README generation verified"

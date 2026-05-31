@@ -9,6 +9,7 @@ import re
 import sys
 import random
 from utils import TODAY, renew_readme, load_links, save_links
+import html
 import os
 
 BASE_URL = "https://testflight.apple.com/"
@@ -29,6 +30,7 @@ def parse_platforms_from_string(s: str) -> list:
 
 async def check_status(session, key, retry=10):
     app_name = "None"
+    status = "N"
     html_content = ""
     ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -50,9 +52,9 @@ async def check_status(session, key, retry=10):
                 app_name_search = APP_NAME_PATTERN.search(html_content)
                 app_name_ch_search = APP_NAME_CH_PATTERN.search(html_content)
                 if app_name_search:
-                    app_name = app_name_search.group(1)
+                    app_name = html.unescape(app_name_search.group(1))
                 elif app_name_ch_search:
-                    app_name = app_name_ch_search.group(1)
+                    app_name = html.unescape(app_name_ch_search.group(1))
 
                 return (key, status, app_name, html_content)
         except asyncio.TimeoutError:

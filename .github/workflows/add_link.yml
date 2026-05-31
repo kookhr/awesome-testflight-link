@@ -18,7 +18,7 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
-    if: github.repository == 'pluwen/awesome-testflight-link'
+    if: github.repository_owner == 'kookhr'
     steps:
       - uses: actions/checkout@v6
       - name: Setup uv
