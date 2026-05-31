@@ -1,0 +1,29 @@
+name: Refresh Site Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/links.json'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Worker cache
+        run: |
+          # Request the stats API to warm up cache with fresh data
+          # Worker uses Cache API with 10min TTL; this forces a re-fetch
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://tf.kook.qzz.io/api/stats?_t=$(date +%s)")
+          echo "Stats API response: $STATUS"
+          
+          # Also warm the apps API
+          STATUS2=$(curl -s -o /dev/null -w "%{http_code}" "https://tf.kook.qzz.io/api/apps?activeOnly=false&_t=$(date +%s)")
+          echo "Apps API response: $STATUS2"
+          
+          if [ "$STATUS" = "200" ] && [ "$STATUS2" = "200" ]; then
+            echo "Site cache refreshed successfully"
+          else
+            echo "Warning: Site cache refresh returned non-200, but this is non-critical"
+          fi

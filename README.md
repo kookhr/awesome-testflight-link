@@ -1,6 +1,8 @@
 # Awesome Testflight App List
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
+> **🌐 在线浏览**: [tf.kook.qzz.io](https://tf.kook.qzz.io/) — 可视化查看哪些应用正在测试，支持筛选、搜索和分类浏览
+
 ## 🚀 Quick Navigation
 - [iOS Apps](#ios-app-list)
 - [iPadOS Apps](#ipados-app-list)
@@ -1048,3 +1050,5 @@ _⚠️ These 3 apps have reached their tester limit. Try checking back later._
 Fork of [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) by [Pluwen](https://twitter.com/pluwen).
 
 Maintained by [@kookhr](https://github.com/kookhr).
+
+🌐 Online viewer: [tf.kook.qzz.io](https://tf.kook.qzz.io/)
