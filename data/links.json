@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20",
+      "last_modify": "2026-06-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -1403,11 +1403,12 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App WLAN",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-18"
+      "last_modify": "2026-06-01",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/09/6f/c9096fc5-9068-9bde-19b4-31d67078d2ee/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/120x120bb-80.png"
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
@@ -4472,11 +4473,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-25",
+      "last_modify": "2026-06-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/0d/ee/710deedf-1b8d-a834-3d3e-0211241d16f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "hTa12wLY": {
@@ -4581,11 +4582,11 @@
     },
     "vxCluwBF": {
       "app_name": "KDE Connect",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/dc/87/88dc8742-d757-f82d-a6ca-bb098072c205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "ixRrWfQL": {
@@ -4641,11 +4642,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/af/d7/3dafd726-a010-390e-8728-5e36fa36e162/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "F2vK7xo4": {
@@ -6932,11 +6933,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/7a/88/847a88e4-82dd-a163-813a-9e4e425bd6df/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/120x120bb-80.png"
     },
     "m2kxP5cw": {
