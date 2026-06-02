@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -2164,11 +2164,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/24/33/7024334e-2a6b-2711-4e0a-1c37831bf428/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -3739,11 +3739,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/58/0a/df580a23-42c9-f81f-d96f-79e3d9a6781e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "MnuClabg": {
@@ -4473,11 +4473,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/0d/ee/710deedf-1b8d-a834-3d3e-0211241d16f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "hTa12wLY": {
@@ -4573,11 +4573,11 @@
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/20/3b/01203bfa-7963-29f0-c066-5f332ad766a6/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/120x120bb-80.png"
     },
     "vxCluwBF": {
@@ -4778,11 +4778,11 @@
     },
     "y4etT8Ht": {
       "app_name": "Finance Bay",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-03",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/7b/e1/9e7be1cc-74c7-c367-9bfa-b38b7373f594/FinanceBay-0-1x_U007epad-0-0-0-1-0-85-220-0.png/120x120bb-80.png"
     },
     "IM4jE5XY": {
@@ -4881,11 +4881,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-03",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/96/bf/ef96bf47-7b81-a4d6-32a0-ecad440cf77e/AppIcon-0-0-85-220-0-0-0-6-0-2x-sRGB.png/120x120bb-80.png"
     },
     "BScDI9fh": {
@@ -4990,11 +4990,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a7/d8/09a7d80d-aba8-00ff-bd32-9812b0d90acd/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "NSeQo22d": {
@@ -5292,11 +5292,12 @@
     },
     "dqMoJObA": {
       "app_name": "Tunna - Xray/V2ray Proxy Utility",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-28"
+      "last_modify": "2026-06-02",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/3d/72/fa3d7219-700f-baaf-e254-673d028df2c8/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "P5UOcDLa": {
       "app_name": "QR File Transfer",
@@ -5455,11 +5456,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4d/4d/104d4d46-a362-8386-dec9-9b1940d5676d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "2NZLBFyb": {
@@ -5737,11 +5738,12 @@
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-26"
+      "last_modify": "2026-06-02",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/70/ab/2570ab48-51a9-5098-3168-75b169d98065/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "EkFJsGvX": {
       "app_name": "UniFi Protect",
@@ -6646,11 +6648,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/7b/4a/c97b4a3e-6471-1876-7aea-2d8ba695b28d/AppIcon-0-0-85-220-0-1-0-2x.png/120x120bb-80.png"
     },
     "ER3hRBSz": {
