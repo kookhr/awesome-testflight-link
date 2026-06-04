@@ -71,11 +71,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a9/a4/56a9a401-8ba9-8b7d-f4a6-6723f56bda41/Caffeine-0-0-85-220-0-0-6-0-2x.png/120x120bb-80.png"
     },
     "Dm6lqUW7": {
@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -2155,11 +2155,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/51/b9/2051b98e-f923-8497-1e3f-322b25de82ec/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "JkU2rh21": {
@@ -3878,11 +3878,12 @@
     },
     "tv9dt6po": {
       "app_name": "TrackMyTour",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-25"
+      "last_modify": "2026-06-04",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/7b/cf/8c7bcf83-0b5e-e8c9-c302-74036c88cff0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "7s1wL3HL": {
       "app_name": "Träning",
@@ -4924,11 +4925,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven 2.0",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/d0/e8/6bd0e8c8-485b-f3ec-e489-9b60c22391e1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "qQJqMDfX": {
@@ -5008,11 +5009,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/fb/a931fbae-2712-b10d-21dd-ec5eaa8c10ad/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8oUnDzMQ": {
@@ -5456,11 +5457,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4d/4d/104d4d46-a362-8386-dec9-9b1940d5676d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "2NZLBFyb": {
@@ -5712,11 +5713,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d2/dc/b9d2dc2f-e1af-40e5-6cb0-c82d4541f2a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "uDgoqfGS": {
@@ -6630,12 +6631,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy & VPN",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-28",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/93/d0/9f93d0b0-74dd-b3f4-d26d-06a1232d4f17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "eUpweBZV": {
@@ -6683,11 +6684,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/96/679d961a-6837-d4a9-2ae4-696f762e373e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
@@ -6738,11 +6739,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19",
+      "last_modify": "2026-06-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "kbVm551z": {
