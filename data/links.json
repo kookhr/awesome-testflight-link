@@ -1121,11 +1121,11 @@
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-07",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/51/3c/e0513cbd-7c45-c413-be6b-fe1f85c7613f/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "C1a3MRG4": {
@@ -2182,11 +2182,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-08",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/96/74/ce9674ff-e2f1-496c-b602-fb7408709b12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
@@ -3437,11 +3437,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/67/68c9676f-f5e6-ef99-e4cf-d8ac46d6a34a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "nOZ0d7n7": {
@@ -5009,11 +5009,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/fb/a931fbae-2712-b10d-21dd-ec5eaa8c10ad/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8oUnDzMQ": {
@@ -5043,11 +5043,12 @@
     },
     "QvKyRJ8x": {
       "app_name": "Meditation Timer Zenzitizer",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-06-05",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/6b/ab/0d6babe3-519a-c629-8e62-e8c3b29677f4/Zenitzer_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "KsuaylTZ": {
       "app_name": "Microsoft Designer beta",
@@ -5150,11 +5151,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/1d/a5/761da5ff-4c3f-0eaa-9c58-5af1d0898c39/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "mFlnyMv3": {
@@ -6307,11 +6308,12 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-28"
+      "last_modify": "2026-06-05",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/fa/ea/01faeab7-ab1f-67a2-5561-8505f1479124/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "lSZdpEPH": {
       "app_name": "搜狗输入法",
@@ -6684,11 +6686,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/96/679d961a-6837-d4a9-2ae4-696f762e373e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
