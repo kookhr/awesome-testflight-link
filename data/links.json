@@ -2182,20 +2182,20 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-06-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/96/74/ce9674ff-e2f1-496c-b602-fb7408709b12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
-    },
-    "a9Ef0N3g": {
-      "app_name": "Microsoft PowerPoint",
       "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19",
+      "last_modify": "2026-06-06",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/96/74/ce9674ff-e2f1-496c-b602-fb7408709b12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+    },
+    "a9Ef0N3g": {
+      "app_name": "Microsoft PowerPoint",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/11/cf9c112a-b115-84c1-e2d8-d4d2e7cd36cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "yhIhAvjp": {
@@ -3437,11 +3437,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/67/68c9676f-f5e6-ef99-e4cf-d8ac46d6a34a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "nOZ0d7n7": {
@@ -4677,11 +4677,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-13",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/01/ff/4101ffd7-5443-98a8-205d-28af58e929df/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "uyGm1uJr": {
@@ -5458,11 +5458,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4d/4d/104d4d46-a362-8386-dec9-9b1940d5676d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "2NZLBFyb": {
@@ -5714,11 +5714,11 @@
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d2/dc/b9d2dc2f-e1af-40e5-6cb0-c82d4541f2a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "uDgoqfGS": {
@@ -6651,11 +6651,11 @@
     },
     "PapsDHQ3": {
       "app_name": "Brutify",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-02",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/7b/4a/c97b4a3e-6471-1876-7aea-2d8ba695b28d/AppIcon-0-0-85-220-0-1-0-2x.png/120x120bb-80.png"
     },
     "ER3hRBSz": {
@@ -6741,11 +6741,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-06",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "kbVm551z": {
