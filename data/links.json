@@ -431,11 +431,11 @@
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-19",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/3f/ff/503fff85-52b6-a20c-b29f-47a0eccf2c35/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/120x120bb-80.png"
     },
     "avYAAwEt": {
@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -1130,11 +1130,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-17",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/de/a2/36dea24b-15eb-cab3-b9b2-9aa5543c7947/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "UqEC1ibq": {
@@ -1519,11 +1519,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-03",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/26/63/91266328-894f-3231-3163-84ba23e559c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "xajXBrHT": {
@@ -2191,11 +2191,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/11/cf9c112a-b115-84c1-e2d8-d4d2e7cd36cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "yhIhAvjp": {
@@ -3437,11 +3437,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/67/68c9676f-f5e6-ef99-e4cf-d8ac46d6a34a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "nOZ0d7n7": {
@@ -3748,11 +3748,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-21",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ca/f5/31caf53a-5a0f-4426-32a9-8619011b5a26/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -4592,11 +4592,11 @@
     },
     "ixRrWfQL": {
       "app_name": "feeeed",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/b1/d4/99b1d423-71f0-36a6-5787-b60520d03451/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/120x120bb-80.png"
     },
     "8BOPXsGz": {
@@ -4677,11 +4677,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/01/ff/4101ffd7-5443-98a8-205d-28af58e929df/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "uyGm1uJr": {
@@ -5890,11 +5890,11 @@
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&记账软件",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-05-10",
+      "last_modify": "2026-06-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/e7/83/5de783ca-ff9d-4966-c541-7f6d0213fd6a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "ONuHkBRv": {
