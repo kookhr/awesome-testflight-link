@@ -1519,11 +1519,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/26/63/91266328-894f-3231-3163-84ba23e559c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "xajXBrHT": {
@@ -2155,11 +2155,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/51/b9/2051b98e-f923-8497-1e3f-322b25de82ec/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "JkU2rh21": {
@@ -5068,11 +5068,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/16/f70c169a-4b65-dcfc-c776-b826756b9059/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "lNC9vsQM": {
@@ -5151,11 +5151,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/1d/a5/761da5ff-4c3f-0eaa-9c58-5af1d0898c39/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "mFlnyMv3": {
@@ -5228,11 +5228,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/3f/dd/6f3fdd9a-7b9f-dae0-0b80-44274935e5e8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "o85e2EHN": {
@@ -5458,11 +5458,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4d/4d/104d4d46-a362-8386-dec9-9b1940d5676d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "2NZLBFyb": {
@@ -5705,11 +5705,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-07",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/00/c5/5300c55b-69fc-b00e-c518-f055f04a6272/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "3lIiz1eZ": {
@@ -6598,12 +6598,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-04-01",
+      "last_modify": "2026-06-09",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/35/82/6b358276-8226-e85b-4be6-0f40b2cceb23/RoyalBlue-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "2oZuwSHJ": {
