@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -1412,11 +1412,12 @@
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-06"
+      "last_modify": "2026-06-10",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/64/c5/4264c588-ec04-1015-37e4-73c188eda565/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "HktpUEoB": {
       "app_name": "FullPlayer",
@@ -1519,11 +1520,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/26/63/91266328-894f-3231-3163-84ba23e559c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "xajXBrHT": {
@@ -2200,11 +2201,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/56/8b/7f568baf-6193-922d-e67e-ccd59efe5343/AppIcon-0-1x_U007epad-0-1-0-0-0-0-85-220-0.png/120x120bb-80.png"
     },
     "JSq3UkAz": {
@@ -5228,11 +5229,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/3f/dd/6f3fdd9a-7b9f-dae0-0b80-44274935e5e8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "o85e2EHN": {
@@ -5705,11 +5706,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/00/c5/5300c55b-69fc-b00e-c518-f055f04a6272/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "3lIiz1eZ": {
@@ -6088,11 +6089,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-29",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/cb/12/09cb1240-b5ce-6afe-13b0-bc54ddcc3427/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "0x2bROvq": {
@@ -6371,11 +6372,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/5b/83/d95b831e-93a0-4dc0-1fa1-49982652c4d1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "RDuRYxRE": {
@@ -6677,11 +6678,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/13/a3/ec13a38e-2a77-5d55-17aa-992b7c6656d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "MnsYnB0s": {
@@ -6741,11 +6742,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "kbVm551z": {
@@ -6830,12 +6831,12 @@
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-03",
+      "last_modify": "2026-06-10",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ca/9f/ffca9fd1-a187-0b10-31f5-17fe80774de5/AppIcon-1x_U007epad-0-1-85-220-0.png/120x120bb-80.png"
     },
     "mX1G5TQi": {
