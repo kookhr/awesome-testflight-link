@@ -989,11 +989,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -1172,11 +1172,12 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer Pro",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-11",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/37/33/ee373337-04f5-f3f6-5aaa-8e47c17664eb/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1520,11 +1521,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/26/63/91266328-894f-3231-3163-84ba23e559c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "xajXBrHT": {
@@ -2183,11 +2184,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/96/74/ce9674ff-e2f1-496c-b602-fb7408709b12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
@@ -2201,11 +2202,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/56/8b/7f568baf-6193-922d-e67e-ccd59efe5343/AppIcon-0-1x_U007epad-0-1-0-0-0-0-85-220-0.png/120x120bb-80.png"
     },
     "JSq3UkAz": {
@@ -3560,12 +3561,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-05-24",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/0b/b4/580bb45a-c54f-7ebe-baf0-a13631012181/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "EeNKSIBZ": {
@@ -5069,11 +5070,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/16/f70c169a-4b65-dcfc-c776-b826756b9059/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "lNC9vsQM": {
@@ -5152,11 +5153,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-09",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/1d/a5/761da5ff-4c3f-0eaa-9c58-5af1d0898c39/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "mFlnyMv3": {
@@ -6089,11 +6090,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/cb/12/09cb1240-b5ce-6afe-13b0-bc54ddcc3427/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "0x2bROvq": {
@@ -6309,11 +6310,11 @@
     },
     "alLbf0ju": {
       "app_name": "爱奇艺",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/fa/ea/01faeab7-ab1f-67a2-5561-8505f1479124/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "lSZdpEPH": {
@@ -6372,11 +6373,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/5b/83/d95b831e-93a0-4dc0-1fa1-49982652c4d1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "RDuRYxRE": {
@@ -6678,11 +6679,11 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/13/a3/ec13a38e-2a77-5d55-17aa-992b7c6656d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "MnsYnB0s": {
@@ -6742,11 +6743,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "kbVm551z": {
@@ -6939,11 +6940,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-01",
+      "last_modify": "2026-06-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/7a/88/847a88e4-82dd-a163-813a-9e4e425bd6df/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/120x120bb-80.png"
     },
     "m2kxP5cw": {
