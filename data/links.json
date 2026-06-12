@@ -1130,11 +1130,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/de/a2/36dea24b-15eb-cab3-b9b2-9aa5543c7947/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "UqEC1ibq": {
@@ -3439,11 +3439,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/67/68c9676f-f5e6-ef99-e4cf-d8ac46d6a34a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "nOZ0d7n7": {
@@ -3561,12 +3561,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/0b/b4/580bb45a-c54f-7ebe-baf0-a13631012181/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "EeNKSIBZ": {
@@ -3750,11 +3750,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-08",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ca/f5/31caf53a-5a0f-4426-32a9-8619011b5a26/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -4517,11 +4517,12 @@
     },
     "7sus3M6q": {
       "app_name": "Newsbite",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19"
+      "last_modify": "2026-06-12",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/a7/5e/77a75ee8-0c95-981e-c68f-fd4b8a96fa44/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ruyYHU5E": {
       "app_name": "Flipabit",
@@ -5011,11 +5012,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/fb/a931fbae-2712-b10d-21dd-ec5eaa8c10ad/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8oUnDzMQ": {
@@ -5523,11 +5524,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-19",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/4a/0b/f04a0b78-79f7-460f-b467-2fa0691a9eba/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rG93mFo8": {
@@ -6679,20 +6680,20 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/13/a3/ec13a38e-2a77-5d55-17aa-992b7c6656d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-05",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/96/679d961a-6837-d4a9-2ae4-696f762e373e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
@@ -6811,12 +6812,12 @@
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-05-27",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/7a/cb/f07acb13-ba5c-a1c2-ab1d-e9ff5e299f4f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "1AlPbnLZ": {
@@ -7003,11 +7004,11 @@
     },
     "nnDAn7ZH": {
       "app_name": "Meow (Clash)",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-20",
+      "last_modify": "2026-06-12",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/42/3a/3f423a48-89bd-93d4-9039-bd1287524752/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "VeVxYFXP": {
