@@ -96,11 +96,12 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "N",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-03-03"
+      "last_modify": "2026-06-14",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/43/2d/6d432de9-6b23-35ef-30db-9ead96f809c8/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB-0-0-0.png/120x120bb-80.png"
     },
     "tGH2m5vf": {
       "app_name": "Monal - XMPP Chatting",
@@ -1521,11 +1522,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/26/63/91266328-894f-3231-3163-84ba23e559c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "xajXBrHT": {
@@ -2166,11 +2167,11 @@
     },
     "JkU2rh21": {
       "app_name": "Microsoft Edge",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/24/33/7024334e-2a6b-2711-4e0a-1c37831bf428/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -3071,11 +3072,11 @@
     },
     "kBS5mVao": {
       "app_name": "Reading List - Book Tracker",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-09",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/bb/5a/f0bb5ae3-523d-4e2a-5c8e-55a1911a95fc/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/120x120bb-80.png"
     },
     "iow1BtFD": {
@@ -3439,11 +3440,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-12",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/67/68c9676f-f5e6-ef99-e4cf-d8ac46d6a34a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "nOZ0d7n7": {
@@ -5012,11 +5013,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/fb/a931fbae-2712-b10d-21dd-ec5eaa8c10ad/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8oUnDzMQ": {
@@ -5154,11 +5155,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/1d/a5/761da5ff-4c3f-0eaa-9c58-5af1d0898c39/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "mFlnyMv3": {
@@ -5332,11 +5333,11 @@
     },
     "TFhYeUyJ": {
       "app_name": "AliExpress - Shopping App beta",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/2d/af/e12dafe4-e0d5-9008-fc95-24214845fa69/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "72eyUWVE": {
@@ -5461,11 +5462,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4d/4d/104d4d46-a362-8386-dec9-9b1940d5676d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "2NZLBFyb": {
@@ -5699,11 +5700,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d8/80/ffd88008-6872-ca00-2905-e4ea9a9c95ed/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "hw76phYi": {
@@ -6941,11 +6942,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/7a/88/847a88e4-82dd-a163-813a-9e4e425bd6df/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/120x120bb-80.png"
     },
     "m2kxP5cw": {
