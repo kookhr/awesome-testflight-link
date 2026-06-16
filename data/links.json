@@ -96,11 +96,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-15",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/43/2d/6d432de9-6b23-35ef-30db-9ead96f809c8/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB-0-0-0.png/120x120bb-80.png"
     },
     "tGH2m5vf": {
@@ -990,11 +990,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/48/98/7148988b-7834-280a-aca0-af22aad914b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EOPEVoDA": {
@@ -1480,11 +1480,12 @@
     },
     "mmJ9mS6M": {
       "app_name": "GIFwrapped",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-06-16",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/06/c2/e606c23d-c184-a1d9-aae7-2068186adff8/green-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "QIVXLkkn": {
       "app_name": "GitHawk for GitHub",
@@ -2158,11 +2159,11 @@
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/51/b9/2051b98e-f923-8497-1e3f-322b25de82ec/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "JkU2rh21": {
@@ -2194,11 +2195,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/11/cf9c112a-b115-84c1-e2d8-d4d2e7cd36cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "yhIhAvjp": {
@@ -4477,11 +4478,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/0d/ee/710deedf-1b8d-a834-3d3e-0211241d16f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "hTa12wLY": {
@@ -5232,11 +5233,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/3f/dd/6f3fdd9a-7b9f-dae0-0b80-44274935e5e8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "o85e2EHN": {
@@ -5700,11 +5701,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-15",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d8/80/ffd88008-6872-ca00-2905-e4ea9a9c95ed/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "hw76phYi": {
@@ -6612,11 +6613,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-06-15",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b6/b3/2db6b36b-bc3e-68bd-a809-7b459270a94d/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "4GWAwNsU": {
@@ -6690,11 +6691,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-13",
+      "last_modify": "2026-06-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/96/679d961a-6837-d4a9-2ae4-696f762e373e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
