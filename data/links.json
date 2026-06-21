@@ -96,11 +96,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-18",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/43/2d/6d432de9-6b23-35ef-30db-9ead96f809c8/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB-0-0-0.png/120x120bb-80.png"
     },
     "tGH2m5vf": {
@@ -147,11 +147,11 @@
     },
     "KjmVWFnT": {
       "app_name": "1Blocker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/2e/c6/392ec6e4-143e-7c1c-4225-ae2d16991996/Blocker-TestFlight-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "flDiG5AU": {
@@ -2195,11 +2195,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/11/cf9c112a-b115-84c1-e2d8-d4d2e7cd36cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "yhIhAvjp": {
@@ -2328,11 +2328,11 @@
     },
     "uaazZoIc": {
       "app_name": "Music Harbor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/78/35/bf783547-850a-eedd-6515-2e795e2e9f96/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "EIEOkKJV": {
@@ -2492,11 +2492,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/1f/29/091f29e3-c1a2-c025-49a5-c7f6b537ddd9/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/120x120bb-80.png"
     },
     "DGHcr3A1": {
@@ -3531,11 +3531,11 @@
     },
     "plMhyWoV": {
       "app_name": "Spend Together",
-      "status": "Y",
+      "status": "D",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-21"
     },
     "qsfCtbEy": {
       "app_name": "Spendee Budget Money Tracker",
@@ -3743,11 +3743,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/58/0a/df580a23-42c9-f81f-d96f-79e3d9a6781e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "MnuClabg": {
@@ -4682,11 +4682,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-07",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/01/ff/4101ffd7-5443-98a8-205d-28af58e929df/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "uyGm1uJr": {
@@ -5233,11 +5233,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/3f/dd/6f3fdd9a-7b9f-dae0-0b80-44274935e5e8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "o85e2EHN": {
@@ -5710,20 +5710,20 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/00/c5/5300c55b-69fc-b00e-c518-f055f04a6272/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-06",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d2/dc/b9d2dc2f-e1af-40e5-6cb0-c82d4541f2a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "uDgoqfGS": {
@@ -6376,11 +6376,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/5b/83/d95b831e-93a0-4dc0-1fa1-49982652c4d1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "RDuRYxRE": {
@@ -6746,11 +6746,11 @@
     },
     "64yNbkhM": {
       "app_name": "Studious: Focus Timer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "kbVm551z": {
@@ -6943,11 +6943,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-19",
+      "last_modify": "2026-06-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/7a/88/847a88e4-82dd-a163-813a-9e4e425bd6df/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/120x120bb-80.png"
     },
     "m2kxP5cw": {
