@@ -96,11 +96,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-21",
+      "last_modify": "2026-06-24",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/43/2d/6d432de9-6b23-35ef-30db-9ead96f809c8/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB-0-0-0.png/120x120bb-80.png"
     },
     "tGH2m5vf": {
@@ -2492,11 +2492,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-21",
+      "last_modify": "2026-06-24",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/1f/29/091f29e3-c1a2-c025-49a5-c7f6b537ddd9/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/120x120bb-80.png"
     },
     "DGHcr3A1": {
@@ -3507,11 +3507,11 @@
     },
     "mFLqaDY5": {
       "app_name": "Spartan Runner X",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-18"
+      "last_modify": "2026-06-24"
     },
     "r6kZKMzv": {
       "app_name": "Speck - Web Playground",
@@ -3752,11 +3752,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-20",
+      "last_modify": "2026-06-24",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ca/f5/31caf53a-5a0f-4426-32a9-8619011b5a26/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -4682,11 +4682,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22",
+      "last_modify": "2026-06-24",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/01/ff/4101ffd7-5443-98a8-205d-28af58e929df/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "uyGm1uJr": {
@@ -4996,11 +4996,11 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02",
+      "last_modify": "2026-06-24",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a7/d8/09a7d80d-aba8-00ff-bd32-9812b0d90acd/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "NSeQo22d": {
