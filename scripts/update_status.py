@@ -4,6 +4,9 @@ import aiohttp
 import re
 import random
 import html
+import json
+import os
+from pathlib import Path
 from utils import TODAY, renew_readme, load_links, save_links
 
 BASE_URL = "https://testflight.apple.com/"
@@ -17,20 +20,21 @@ OG_IMAGE_PATTERN = re.compile(r'<meta\s+property="og:image"\s+content="([^"]+)"'
 BATCH_SIZE = 50
 BATCH_DELAY = 5  # seconds between batches
 
+# Checkpoint file for resume after failure
+CHECKPOINT_FILE = Path(__file__).parent.parent / "data" / ".update_checkpoint.json"
+
+
 def extract_icon_url(resp_html):
     """从 TestFlight 页面提取应用图标 URL"""
     match = OG_IMAGE_PATTERN.search(resp_html)
     if not match:
         return ''
     url = match.group(1)
-    # 过滤掉默认占位图
     if 'testflight.apple.com/images/' in url:
         return ''
-    # 将大图 URL 转换为 120x120 小图标 URL
-    # 原始: /1920x1080ia-80.png
-    # 目标: /120x120bb-80.png (更小，加载快)
     url = re.sub(r'/\d+x\d+[^/]*\.png', '/120x120bb-80.png', url)
     return url
+
 
 def extract_app_name(resp_html):
     """从 TestFlight 页面提取应用名称"""
@@ -41,6 +45,28 @@ def extract_app_name(resp_html):
     if match:
         return html.unescape(match.group(1)).strip()
     return ''
+
+
+def load_checkpoint():
+    """Load checkpoint for resume support"""
+    if CHECKPOINT_FILE.exists():
+        try:
+            return json.loads(CHECKPOINT_FILE.read_text())
+        except Exception:
+            pass
+    return {"completed_keys": [], "results": []}
+
+
+def save_checkpoint(cp):
+    """Persist checkpoint"""
+    CHECKPOINT_FILE.write_text(json.dumps(cp, ensure_ascii=False))
+
+
+def clear_checkpoint():
+    """Remove checkpoint after successful completion"""
+    if CHECKPOINT_FILE.exists():
+        CHECKPOINT_FILE.unlink()
+
 
 async def check_status(session, key, current_status, app_name=None, retry=5):
     """获取应用状态、图标和应用名"""
@@ -57,11 +83,9 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
                 resp.raise_for_status()
                 resp_html = await resp.text()
 
-                # 提取图标和应用名
                 icon_url = extract_icon_url(resp_html)
                 fetched_name = extract_app_name(resp_html)
 
-                # 检测状态
                 if NO_PATTERN.search(resp_html):
                     return (key, 'N', icon_url, fetched_name)
                 elif FULL_PATTERN.search(resp_html):
@@ -83,38 +107,52 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
     print(f"[error] Failed to get status for {key} after {retry} retries")
     return (key, current_status, '', '')
 
+
 async def update_all_links(links_data):
-    """更新所有链接的状态、图标和应用名（分批处理）"""
+    """更新所有链接的状态、图标和应用名（分批处理 + 断点续传）"""
     print(f"[info] Updating all links...")
     all_links = links_data.get("_links", {})
-    links = list(all_links.keys())
+    all_keys = list(all_links.keys())
 
-    if not links:
+    if not all_keys:
         print("[warn] No links found")
         return
 
-    total = len(links)
-    all_results = []
+    # Resume support: skip already-completed keys
+    cp = load_checkpoint()
+    completed_set = set(cp["completed_keys"])
+    all_results = cp["results"]
 
+    remaining_keys = [k for k in all_keys if k not in completed_set]
+    if completed_set:
+        print(f"[info] Resuming from checkpoint: {len(completed_set)} completed, {len(remaining_keys)} remaining")
+
+    total = len(remaining_keys)
     conn_config = aiohttp.TCPConnector(limit=5, limit_per_host=2)
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config) as session:
         for batch_start in range(0, total, BATCH_SIZE):
-            batch = links[batch_start:batch_start + BATCH_SIZE]
+            batch = remaining_keys[batch_start:batch_start + BATCH_SIZE]
             batch_num = batch_start // BATCH_SIZE + 1
             total_batches = (total + BATCH_SIZE - 1) // BATCH_SIZE
             print(f"[info] Processing batch {batch_num}/{total_batches} ({len(batch)} links)")
 
             tasks = [
-                check_status(session, link, all_links[link].get('status', 'N'), all_links[link].get('app_name'))
-                for link in batch
+                check_status(session, key, all_links[key].get('status', 'N'), all_links[key].get('app_name'))
+                for key in batch
             ]
             results = await asyncio.gather(*tasks)
             all_results.extend(results)
+
+            # Save checkpoint after each batch
+            cp["completed_keys"].extend(batch)
+            cp["results"] = all_results
+            save_checkpoint(cp)
 
             if batch_start + BATCH_SIZE < total:
                 print(f"[info] Waiting {BATCH_DELAY}s before next batch...")
                 await asyncio.sleep(BATCH_DELAY)
 
+    # Apply results to links_data
     status_updated = 0
     icon_updated = 0
     name_updated = 0
@@ -124,30 +162,32 @@ async def update_all_links(links_data):
 
         link_info = all_links[link]
 
+        # Status change
         if link_info.get('status') != status:
             link_info['status'] = status
             link_info['last_modify'] = TODAY
             status_updated += 1
 
-        # 更新图标（只在有新图标且当前无图标时更新，避免覆盖）
-        if icon_url and not link_info.get('icon_url'):
+        # Always update icon_url when we got one (covers missing + stale)
+        if icon_url and link_info.get('icon_url') != icon_url:
             link_info['icon_url'] = icon_url
             icon_updated += 1
 
-        # 更新应用名（只在当前无名称或名称为空时更新）
-        if fetched_name and not link_info.get('app_name'):
+        # Always update app_name when we got one (covers missing + wrong)
+        if fetched_name and link_info.get('app_name') != fetched_name:
             link_info['app_name'] = fetched_name
             name_updated += 1
 
-    print(f"[info] Status updated: {status_updated}, Icons added: {icon_updated}, Names added: {name_updated}")
+    print(f"[info] Status updated: {status_updated}, Icons updated: {icon_updated}, Names updated: {name_updated}")
+
+    # Clear checkpoint on success
+    clear_checkpoint()
+
 
 async def main():
     links_data = load_links()
     await update_all_links(links_data)
-
     save_links(links_data)
-
-    # 直接生成 README
     renew_readme()
 
 if __name__ == "__main__":

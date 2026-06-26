@@ -24,6 +24,7 @@ jobs:
         run: |
           uv run python -c "
           import json, sys
+          from collections import Counter
           data = json.load(open('data/links.json'))
           links = data.get('_links', {})
           errors = []
@@ -47,6 +48,16 @@ jobs:
               import html as html_mod
               if html_mod.unescape(v.get('app_name', '')) != v.get('app_name', ''):
                   errors.append(f'{k}: app_name contains HTML entities')
+              # Validate icon_url format if present
+              icon = v.get('icon_url', '')
+              if icon and not icon.startswith('http'):
+                  errors.append(f'{k}: invalid icon_url {icon}')
+          # Check for duplicate app_names
+          names = [v.get('app_name', '') for v in links.values()]
+          dupes = {n: c for n, c in Counter(names).items() if c > 1}
+          if dupes:
+              for name, count in dupes.items():
+                  errors.append(f'Duplicate app_name: {name} ({count} entries)')
           if errors:
               for e in errors[:20]:
                   print(f'  ERROR: {e}')
@@ -63,5 +74,4 @@ jobs:
         run: |
           cp README.md /tmp/readme_before.md
           uv run python scripts/order_status.py
-          # Just verify it generates without error
           echo "README generation verified"

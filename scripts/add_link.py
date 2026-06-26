@@ -16,10 +16,11 @@ BASE_URL = "https://testflight.apple.com/"
 
 FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
 NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
-APP_NAME_PATTERN = re.compile(r"Join the (.+) beta - TestFlight - Apple")
-APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+)" - TestFlight - Apple')
+APP_NAME_PATTERN = re.compile(r"Join the (.+?) beta - TestFlight - Apple")
+APP_NAME_CH_PATTERN = re.compile(r'加入 Beta 版"(.+?)" - TestFlight - Apple')
+OG_IMAGE_PATTERN = re.compile(r'<meta\s+property="og:image"\s+content="([^"]+)"')
 
-# Parse comma-separated platform string from CLI or env
+
 def parse_platforms_from_string(s: str) -> list:
     """Parse comma-separated platform string into validated list."""
     if not s:
@@ -28,9 +29,23 @@ def parse_platforms_from_string(s: str) -> list:
     valid = {'ios', 'ipados', 'macos', 'tvos'}
     return [p for p in parts if p in valid]
 
+
+def extract_icon_url(resp_html):
+    """从 TestFlight 页面提取应用图标 URL"""
+    match = OG_IMAGE_PATTERN.search(resp_html)
+    if not match:
+        return ''
+    url = match.group(1)
+    if 'testflight.apple.com/images/' in url:
+        return ''
+    url = re.sub(r'/\d+x\d+[^/]*\.png', '/120x120bb-80.png', url)
+    return url
+
+
 async def check_status(session, key, retry=10):
     app_name = "None"
     status = "N"
+    icon_url = ""
     html_content = ""
     ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -38,7 +53,7 @@ async def check_status(session, key, retry=10):
         try:
             async with session.get(f'/join/{key}', headers={'User-Agent': ua}, timeout=aiohttp.ClientTimeout(total=10)) as resp:
                 if resp.status == 404:
-                    return (key, 'D', app_name, "")
+                    return (key, 'D', app_name, "", "")
                 resp.raise_for_status()
                 html_content = await resp.text()
 
@@ -56,7 +71,8 @@ async def check_status(session, key, retry=10):
                 elif app_name_ch_search:
                     app_name = html.unescape(app_name_ch_search.group(1))
 
-                return (key, status, app_name, html_content)
+                icon_url = extract_icon_url(html_content)
+                return (key, status, app_name, icon_url, html_content)
         except asyncio.TimeoutError:
             if i < retry - 1:
                 wait_time = 2 ** i
@@ -69,10 +85,10 @@ async def check_status(session, key, retry=10):
                 await asyncio.sleep(wait_time)
 
     print(f"[warn] {key} - Failed after {retry} retries, using default values")
-    return (key, status, app_name, "")
+    return (key, status, app_name, "", "")
+
 
 async def main():
-    # Parse arguments - link, platforms (comma-separated), and optional app_name
     args = sys.argv[1:]
 
     if len(args) < 1:
@@ -87,7 +103,6 @@ async def main():
         sys.exit(1)
 
     testflight_link = args[0]
-    # If platforms provided as second arg, app_name may be third arg
     if len(args) > 2:
         app_name = args[2]
     else:
@@ -105,7 +120,7 @@ async def main():
     }
 
     async with aiohttp.ClientSession(base_url=BASE_URL, connector=conn_config, headers=headers) as session:
-        _, status, fetched_name, html_content = await check_status(session, testflight_link)
+        _, status, fetched_name, icon_url, html_content = await check_status(session, testflight_link)
 
         if not app_name or app_name.lower() == "none":
             app_name = fetched_name
@@ -116,7 +131,6 @@ async def main():
         if env_val:
             platforms_from_env = parse_platforms_from_string(env_val)
 
-        # CLI: second arg is platforms (comma separated), third arg is app_name
         cli_platforms = None
         if len(args) >= 2:
             cli_platforms = parse_platforms_from_string(args[1])
@@ -137,8 +151,6 @@ async def main():
     if "_links" not in links_data:
         links_data["_links"] = {}
 
-    # Check if link already exists
-    link_exists = testflight_link in links_data["_links"]
     link_info = links_data["_links"].get(testflight_link)
 
     if link_info is None:
@@ -153,20 +165,22 @@ async def main():
         old_platforms = link_info.get("tables", [])
         link_info["app_name"] = app_name
         link_info["status"] = status
-        link_info["tables"] = tables  # Replace with provided platforms
+        link_info["tables"] = tables
         link_info["last_modify"] = TODAY
 
-        # Log platform changes if they differ
         if set(old_platforms) != set(tables):
             print(f"[info] Updated platforms for '{app_name}': {old_platforms} → {tables}")
 
         action = "Updated existing link"
 
+    # Save icon_url when available
+    if icon_url:
+        link_info["icon_url"] = icon_url
+
     links_data["_links"][testflight_link] = link_info
     save_links(links_data)
     print(f"[info] {action} '{app_name}' with platforms: {', '.join(link_info['tables'])}")
 
-    # 直接生成 README
     renew_readme()
 
 if __name__ == "__main__":
