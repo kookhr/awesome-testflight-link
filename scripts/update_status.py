@@ -10,6 +10,7 @@ from pathlib import Path
 from utils import TODAY, renew_readme, load_links, save_links
 
 BASE_URL = "https://testflight.apple.com/"
+ITUNES_URL = "https://itunes.apple.com/search"
 FULL_PATTERN = re.compile(r"版本的测试员已满|This beta is full")
 NO_PATTERN = re.compile(r"版本目前不接受任何新测试员|This beta isn't accepting any new testers right now")
 APP_NAME_PATTERN = re.compile(r"Join the (.+?) beta - TestFlight - Apple")
@@ -19,6 +20,8 @@ OG_IMAGE_PATTERN = re.compile(r'<meta\s+property="og:image"\s+content="([^"]+)"'
 # Batch processing config
 BATCH_SIZE = 50
 BATCH_DELAY = 5  # seconds between batches
+ITUNES_BATCH_SIZE = 20
+ITUNES_BATCH_DELAY = 2  # seconds between iTunes batches
 
 # Checkpoint file for resume after failure
 CHECKPOINT_FILE = Path(__file__).parent.parent / "data" / ".update_checkpoint.json"
@@ -48,7 +51,6 @@ def extract_app_name(resp_html):
 
 
 def load_checkpoint():
-    """Load checkpoint for resume support"""
     if CHECKPOINT_FILE.exists():
         try:
             return json.loads(CHECKPOINT_FILE.read_text())
@@ -58,12 +60,10 @@ def load_checkpoint():
 
 
 def save_checkpoint(cp):
-    """Persist checkpoint"""
     CHECKPOINT_FILE.write_text(json.dumps(cp, ensure_ascii=False))
 
 
 def clear_checkpoint():
-    """Remove checkpoint after successful completion"""
     if CHECKPOINT_FILE.exists():
         CHECKPOINT_FILE.unlink()
 
@@ -108,6 +108,26 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
     return (key, current_status, '', '')
 
 
+async def fetch_itunes_icon(session, app_name):
+    """从 iTunes Search API 获取应用图标 URL"""
+    if not app_name:
+        return ''
+    try:
+        params = {'term': app_name, 'entity': 'software', 'limit': 1}
+        async with session.get(ITUNES_URL, params=params, timeout=aiohttp.ClientTimeout(total=10)) as resp:
+            if resp.status != 200:
+                return ''
+            data = await resp.json(content_type=None)
+            if data.get('resultCount', 0) > 0:
+                # Use 120x120 version of the icon
+                icon = data['results'][0].get('artworkUrl60', '')
+                if icon:
+                    return icon.replace('/60x60bb.jpg', '/120x120bb-80.png').replace('/60x60bb-80.png', '/120x120bb-80.png')
+    except Exception:
+        pass
+    return ''
+
+
 async def update_all_links(links_data):
     """更新所有链接的状态、图标和应用名（分批处理 + 断点续传）"""
     print(f"[info] Updating all links...")
@@ -118,7 +138,7 @@ async def update_all_links(links_data):
         print("[warn] No links found")
         return
 
-    # Resume support: skip already-completed keys
+    # Resume support
     cp = load_checkpoint()
     completed_set = set(cp["completed_keys"])
     all_results = cp["results"]
@@ -143,7 +163,6 @@ async def update_all_links(links_data):
             results = await asyncio.gather(*tasks)
             all_results.extend(results)
 
-            # Save checkpoint after each batch
             cp["completed_keys"].extend(batch)
             cp["results"] = all_results
             save_checkpoint(cp)
@@ -162,25 +181,43 @@ async def update_all_links(links_data):
 
         link_info = all_links[link]
 
-        # Status change
         if link_info.get('status') != status:
             link_info['status'] = status
             link_info['last_modify'] = TODAY
             status_updated += 1
 
-        # Always update icon_url when we got one (covers missing + stale)
         if icon_url and link_info.get('icon_url') != icon_url:
             link_info['icon_url'] = icon_url
             icon_updated += 1
 
-        # Always update app_name when we got one (covers missing + wrong)
         if fetched_name and link_info.get('app_name') != fetched_name:
             link_info['app_name'] = fetched_name
             name_updated += 1
 
     print(f"[info] Status updated: {status_updated}, Icons updated: {icon_updated}, Names updated: {name_updated}")
 
-    # Clear checkpoint on success
+    # Phase 2: Fill missing icon_url via iTunes Search API
+    missing_icon_keys = [k for k, v in all_links.items() if not v.get('icon_url') and v.get('app_name')]
+    if missing_icon_keys:
+        print(f"[info] Filling {len(missing_icon_keys)} missing icons via iTunes Search API...")
+        itunes_icon_updated = 0
+
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=3)) as itunes_session:
+            for i in range(0, len(missing_icon_keys), ITUNES_BATCH_SIZE):
+                batch = missing_icon_keys[i:i + ITUNES_BATCH_SIZE]
+                tasks = [fetch_itunes_icon(itunes_session, all_links[k].get('app_name', '')) for k in batch]
+                icons = await asyncio.gather(*tasks)
+
+                for key, icon in zip(batch, icons):
+                    if icon and not all_links[key].get('icon_url'):
+                        all_links[key]['icon_url'] = icon
+                        itunes_icon_updated += 1
+
+                if i + ITUNES_BATCH_SIZE < len(missing_icon_keys):
+                    await asyncio.sleep(ITUNES_BATCH_DELAY)
+
+        print(f"[info] iTunes icons filled: {itunes_icon_updated}")
+
     clear_checkpoint()
 
 
