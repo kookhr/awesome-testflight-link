@@ -19,16 +19,14 @@ OG_IMAGE_PATTERN = re.compile(r'<meta\s+property="og:image"\s+content="([^"]+)"'
 
 # Batch processing config
 BATCH_SIZE = 50
-BATCH_DELAY = 5  # seconds between batches
+BATCH_DELAY = 5
 ITUNES_BATCH_SIZE = 20
-ITUNES_BATCH_DELAY = 2  # seconds between iTunes batches
+ITUNES_BATCH_DELAY = 2
 
-# Checkpoint file for resume after failure
 CHECKPOINT_FILE = Path(__file__).parent.parent / "data" / ".update_checkpoint.json"
 
 
 def extract_icon_url(resp_html):
-    """从 TestFlight 页面提取应用图标 URL"""
     match = OG_IMAGE_PATTERN.search(resp_html)
     if not match:
         return ''
@@ -40,14 +38,28 @@ def extract_icon_url(resp_html):
 
 
 def extract_app_name(resp_html):
-    """从 TestFlight 页面提取应用名称"""
-    match = APP_NAME_PATTERN.search(resp_html)
+    # Unescape HTML entities before matching
+    text = html.unescape(resp_html)
+    match = APP_NAME_PATTERN.search(text)
     if match:
-        return html.unescape(match.group(1)).strip()
-    match = APP_NAME_CH_PATTERN.search(resp_html)
+        return match.group(1).strip()
+    match = APP_NAME_CH_PATTERN.search(text)
     if match:
-        return html.unescape(match.group(1)).strip()
+        return match.group(1).strip()
     return ''
+
+
+def detect_status(resp_html, current_status):
+    """Detect app status from HTML, handling HTML entities in page content."""
+    # Unescape HTML entities first — Apple uses &#39; for apostrophes
+    text = html.unescape(resp_html)
+    if NO_PATTERN.search(text):
+        return 'N'
+    if FULL_PATTERN.search(text):
+        return 'F'
+    if "TestFlight" in text:
+        return 'Y'
+    return current_status
 
 
 def load_checkpoint():
@@ -69,7 +81,6 @@ def clear_checkpoint():
 
 
 async def check_status(session, key, current_status, app_name=None, retry=5):
-    """获取应用状态、图标和应用名"""
     icon_url = ''
     fetched_name = ''
     for i in range(retry):
@@ -85,16 +96,12 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
 
                 icon_url = extract_icon_url(resp_html)
                 fetched_name = extract_app_name(resp_html)
+                status = detect_status(resp_html, current_status)
 
-                if NO_PATTERN.search(resp_html):
-                    return (key, 'N', icon_url, fetched_name)
-                elif FULL_PATTERN.search(resp_html):
-                    return (key, 'F', icon_url, fetched_name)
-                elif "TestFlight" in resp_html:
-                    return (key, 'Y', icon_url, fetched_name)
-                else:
-                    print(f"[warn] {key} - Unexpected HTML content")
-                    return (key, current_status, icon_url, fetched_name)
+                if status != current_status:
+                    print(f"[info] {key} - Status changed: {current_status} -> {status}")
+
+                return (key, status, icon_url, fetched_name)
         except asyncio.TimeoutError:
             wait = (2 ** i) + random.random()
             print(f"[warn] {key} - Timeout, retry {i+1}/{retry}, waiting {wait:.1f}s")
@@ -109,7 +116,6 @@ async def check_status(session, key, current_status, app_name=None, retry=5):
 
 
 async def fetch_itunes_icon(session, app_name):
-    """从 iTunes Search API 获取应用图标 URL"""
     if not app_name:
         return ''
     try:
@@ -119,7 +125,6 @@ async def fetch_itunes_icon(session, app_name):
                 return ''
             data = await resp.json(content_type=None)
             if data.get('resultCount', 0) > 0:
-                # Use 120x120 version of the icon
                 icon = data['results'][0].get('artworkUrl60', '')
                 if icon:
                     return icon.replace('/60x60bb.jpg', '/120x120bb-80.png').replace('/60x60bb-80.png', '/120x120bb-80.png')
@@ -129,7 +134,6 @@ async def fetch_itunes_icon(session, app_name):
 
 
 async def update_all_links(links_data):
-    """更新所有链接的状态、图标和应用名（分批处理 + 断点续传）"""
     print(f"[info] Updating all links...")
     all_links = links_data.get("_links", {})
     all_keys = list(all_links.keys())
@@ -138,7 +142,6 @@ async def update_all_links(links_data):
         print("[warn] No links found")
         return
 
-    # Resume support
     cp = load_checkpoint()
     completed_set = set(cp["completed_keys"])
     all_results = cp["results"]
@@ -171,7 +174,7 @@ async def update_all_links(links_data):
                 print(f"[info] Waiting {BATCH_DELAY}s before next batch...")
                 await asyncio.sleep(BATCH_DELAY)
 
-    # Apply results to links_data
+    # Apply results
     status_updated = 0
     icon_updated = 0
     name_updated = 0
