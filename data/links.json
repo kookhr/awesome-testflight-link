@@ -614,7 +614,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/a6/3a/8da63ada-48a6-821e-4379-e5dc2e012c4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/14/1e/00141e62-90ff-380b-8052-7ae4a4b981b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "U4GabrwT": {
       "app_name": "Build Me This: Parts to Profit",
@@ -1515,7 +1515,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/85/b7/b285b761-d80d-3599-d9e3-1fc796c0d6c4/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/37/4e/48374e3d-990c-d900-1bcf-5680c1b9ed20/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -3855,13 +3855,13 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-06-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/35/82/6b358276-8226-e85b-4be6-0f40b2cceb23/RoyalBlue-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-07-02",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a5/19/5ea51957-05e5-8f51-ce3a-365e43895859/RoyalBlue.lsr/120x120bb-80.png"
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
@@ -4138,7 +4138,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/90/43/d8904337-8a5e-47dc-7b97-cdea34a1f633/AppIcon-0-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/a9/0b/75a90ba4-80f7-9312-6cab-114da861290b/AppIcon-0-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "qDkBu2ur": {
       "app_name": "Pythonista 3",
@@ -4324,7 +4324,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/3c/1d/5a3c1ded-25b0-7fa4-8fa3-dd95adeb3c61/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/38/17/b43817ac-9c4b-1299-5d81-0f8fb6c7aa21/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
@@ -4351,7 +4351,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b5/e6/d9b5e6c3-ff74-5539-65fc-b799f996bf2f/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/120x120bb-80.png"
     },
     "CtqNdLDe": {
       "app_name": "rIPTV",
@@ -4466,7 +4467,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/cb/be/33cbbec2-6bb2-4c3c-e5b3-f3ef1b3e2e34/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/120x120bb-80.png"
     },
     "KwboYTNt": {
       "app_name": "S1 Mufu",
@@ -4556,7 +4558,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/e3/88/33e3883d-be25-d3ab-4027-d314e064cdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "soRRXSyT": {
       "app_name": "Screens",
@@ -4618,7 +4621,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/f2/f5/43f2f518-698d-822f-7217-5a2e3a9cfca6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "VGHJ1Rpe": {
       "app_name": "ShallowTV",
@@ -4680,7 +4684,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a6/ac/98a6ac5d-1c6d-7906-c079-c478d85ccacf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
@@ -4715,7 +4720,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c9/60/a9c960bc-bc79-10be-f3e6-952446552394/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/120x120bb-80.png"
     },
     "4W3Kfb7j": {
       "app_name": "Sins Raid",
@@ -4748,7 +4754,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
     },
     "fB5IkJT7": {
       "app_name": "Skype For iPhone",
@@ -4837,7 +4844,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/42/4f/5f424fc4-dd51-a208-d68e-e6c4b38deeb5/Default-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
     },
     "HEZbtISZ": {
       "app_name": "SocialBuzz-Social Network",
@@ -4845,7 +4853,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/85/dd/1a85dd89-169b-7051-ce39-f81314d70c4f/ios_icon_default-0-0-1x_U007ephone-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "dwXDCbv7": {
       "app_name": "Sonic Compass",
@@ -4880,7 +4889,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/42/fc/f342fc54-5f85-6e04-ab26-2c99a2181cf0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/120x120bb-80.png"
     },
     "UZCCWbHA": {
       "app_name": "Space Browser",
@@ -4888,7 +4898,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/bf/b1/98bfb192-2509-5433-295f-1d926a47355e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "O2wj7i0x": {
       "app_name": "Spark Mail: AI Email Assistant",
@@ -4905,7 +4916,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/49/61/2549612a-64b3-4d88-f891-cbc8447ef586/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/120x120bb-80.png"
     },
     "r6kZKMzv": {
       "app_name": "Speck - Web Playground",
@@ -4913,7 +4925,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/22/ab/94/22ab94c2-31dd-688c-0e82-8b0e82390154/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-3.png/120x120bb-80.png"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -4931,7 +4944,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/b3/ac/ccb3ac58-05ed-0960-748b-a4875f01427c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "qsfCtbEy": {
       "app_name": "Spendee Budget Money Tracker",
@@ -4939,7 +4953,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/de/35/3dde35df-a2d3-095e-e724-849a410a65f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
@@ -4947,7 +4962,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/de/35/3dde35df-a2d3-095e-e724-849a410a65f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "ygPhVWba": {
       "app_name": "Spider Solitaire Card Game",
@@ -4973,7 +4989,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/d2/f1/32d2f189-25cc-eb1c-89d3-f44033292a5f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/120x120bb-80.png"
     },
     "5WU4HTVy": {
       "app_name": "Stadtfahrt",
@@ -4997,7 +5014,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/14/f9/8314f97f-ed0d-823b-c6bc-3263a6bea4af/Blue-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
@@ -5022,7 +5040,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/2f/40/bf2f4066-bb57-cd10-e06f-9e030749526c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "VUT5t0ks": {
       "app_name": "Stealth - Private Cloud Storage",
@@ -5030,7 +5049,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/95/c8/f095c87c-02ce-76f7-d1ea-f775704f466c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "aGB35pbv": {
       "app_name": "Stealth VPN",
@@ -5038,7 +5058,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/54/0b/5a540bcd-6bc8-10e3-85db-2d3d291ee2f9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "lTQYgfEg": {
       "app_name": "Stitcher for Podcasts",
@@ -5258,12 +5279,12 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/59/46/1b59465d-7614-99c0-7c35-1bcf8b87edb7/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-07-02",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/e0/5a/4de05aed-1167-94ac-2999-e47c53ea8104/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -5965,7 +5986,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/17/d3/f517d302-c07d-909a-ba23-3774c5c0b7bb/AppIconLegacy-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/ab/7b/6fab7baf-ab27-1cf0-70f4-c05a48377748/AppIconLegacy-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "8wa9T053": {
       "app_name": "World Clock Time Widget",
@@ -6682,11 +6703,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-06-30",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/3d/6f/cf3d6fd7-1d6c-5f4d-f7af-e3304d173c34/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6709,11 +6730,11 @@
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-06-28",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b9/c3/2cb9c392-6902-0808-fb3e-640a3f3296c4/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB-0-0-0.png/120x120bb-80.png"
     },
     "Trcbh1o3": {
@@ -6750,7 +6771,7 @@
         "ios"
       ],
       "last_modify": "2026-06-29",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1b/fb/6d1bfbe8-7f15-b5b8-d2eb-022e54fbc252/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/8b/a7/9e8ba7b6-9a7d-0a5f-be90-b79a833d71bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6759,7 +6780,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/fb/746ffbc1-3937-6561-8f24-c2783bdfa3a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/99/9c/7b999c10-a179-7681-d069-6d5e2cadae51/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "AzU6kAzX": {
       "app_name": "Egern",
@@ -6912,7 +6933,7 @@
         "ios"
       ],
       "last_modify": "2026-06-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/39/07/8a390770-dd7c-698a-a28e-e7ba3c772a91/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/33/da/d333dadc-5ac9-b48e-10cf-4daad740aac0/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -6961,11 +6982,11 @@
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/50/52/ac5052b8-44a9-cac6-55d2-05ceae85b43b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "c6NtF2xP": {
@@ -7007,11 +7028,11 @@
     },
     "iHcEgAaT": {
       "app_name": "Norton 360 Security & VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/86/2c/ca862c88-1934-4f5d-914f-18e6847e610d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "i4g2QrrG": {
@@ -7030,7 +7051,7 @@
         "ios"
       ],
       "last_modify": "2026-04-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/5d/f9/7e5df993-8615-b632-36e9-597cf01fc1a3/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/fe/a2/e2fea26e-39bf-b44b-61ca-e19ce21d8da1/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7130,16 +7151,16 @@
         "ios"
       ],
       "last_modify": "2026-06-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/4b/20/824b20f7-08cc-6ef2-7890-f51d1c4ee773/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/22/a8/b022a855-ac7b-9e6a-e543-6cd55d74f681/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/48/49/434849e1-4dfc-2501-9558-773378e9d4aa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-07-02",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/01/93/2f0193e4-bc1d-d85c-42ed-c7c1bce0df6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7230,7 +7251,7 @@
         "ios"
       ],
       "last_modify": "2026-05-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/e9/79/c2e9790e-5a07-b04d-926d-ef4104f21a6f/AppIcon-1x_U007epad-0-1-85-220-0.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/8d/0c/498d0c73-4e34-8587-aaea-73416accad46/AppIcon-1x_U007epad-0-1-85-220-0.png/120x120bb-80.png"
     },
     "K4pM1kHu": {
       "app_name": "哔哩哔哩-弹幕番剧直播高清视频",
@@ -7279,11 +7300,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《斩神2》神番回归",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e6/e8/3de6e8f7-3190-2280-6cee-269a46463746/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wUz8czx3": {
@@ -7302,15 +7323,15 @@
         "ios"
       ],
       "last_modify": "2026-06-29",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/7a/06/7a7a060b-606a-5120-67e6-bdb3525c44d4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/42/16/3f4216e1-f3e8-a40c-0e3a-ada9def5281b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
+      "last_modify": "2026-07-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/6d/44/c16d44a8-10df-354f-8793-8471b321abf2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "C9b7GypS": {
