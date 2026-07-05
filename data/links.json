@@ -677,7 +677,7 @@
         "ios"
       ],
       "last_modify": "2026-07-03",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/49/b2/ea49b2ee-c84d-c4bc-d599-156403ba4f16/AppIcon-0-1x_U007epad-0-1-85-220-0.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5f/e8/d05fe8c7-1e70-1333-b1ed-3e592788e168/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
       "app_name": "Cards-Business Card Scanner",
@@ -3078,7 +3078,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/120x120bb-80.png"
     },
     "uDgoqfGS": {
       "app_name": "Microsoft OneNote",
@@ -5989,11 +5990,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-02",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/39/6e/23396e2d-25f2-0a91-d362-5df2b529c61c/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "oKib5JOq": {
@@ -6852,7 +6853,7 @@
         "ios"
       ],
       "last_modify": "2026-06-29",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/19/4b/29194b60-2ba5-2b0c-44df-f0638fa51531/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/8f/ec/b68fecc1-a2f1-9b38-ba24-e800283079aa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6874,11 +6875,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-27",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/2e/12/842e12a5-0b20-06f4-a139-a77a052e8ec2/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
@@ -6946,12 +6947,12 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Screen Widgets",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c8/1b/0ac81b89-a02c-5307-b0c8-3f0433bdf4fa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-07-05",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/3c/df/953cdf46-154b-ab90-9883-1dc718cdc343/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -6991,7 +6992,7 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft 365 Copilot",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7018,11 +7019,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-22",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/e4/20/4ee420bf-db30-2720-2afb-07c1869baf0c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/120x120bb-80.png"
     },
     "yhIhAvjp": {
@@ -7059,7 +7060,7 @@
         "ios"
       ],
       "last_modify": "2026-02-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ed/b9/b7edb947-8c6a-e823-41f8-a1235ced6e23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/38/c1/2038c112-9da4-3d85-aaec-eb921a13452c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
@@ -7145,7 +7146,7 @@
     },
     "37azzGPG": {
       "app_name": "Overcast: Podcast App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7209,7 +7210,7 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7264,20 +7265,20 @@
     },
     "8BOPXsGz": {
       "app_name": "Steam Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-31",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/67/e8/5067e807-7e54-d37e-408a-6f14e8b1a4eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "64yNbkhM": {
       "app_name": "Focus Timer - Studious",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-03",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/88/88/a8888864-6008-5dce-f1ab-f7c7499e56d7/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "u6iogfd0": {
@@ -7372,11 +7373,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-11",
+      "last_modify": "2026-07-05",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a4/db/a7a4db0f-6c3b-4422-e9b2-30931eca765a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
@@ -7417,7 +7418,7 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
