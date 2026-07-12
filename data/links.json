@@ -194,7 +194,7 @@
         "ios"
       ],
       "last_modify": "2026-06-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8b/1e/3f8b1e80-37ad-2e7e-6e7f-1ce00e8c9799/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2a/15/3b2a150f-4bbb-e7d6-0bb7-93856236b352/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "4Jc5hX2s": {
       "app_name": "all 4 hue (for Philips Hue)",
@@ -677,7 +677,7 @@
         "ios"
       ],
       "last_modify": "2026-07-03",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/31/95/3c3195bf-001e-12f7-41fc-24913e098e55/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/97/53/2697532f-2ca0-082a-61c4-c1bc33120745/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
       "app_name": "Cards-Business Card Scanner",
@@ -855,7 +855,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b7/88/3bb78818-42e8-d445-6241-f66316982902/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "CUClR0rD": {
       "app_name": "Close Cross",
@@ -1471,7 +1472,7 @@
         "ios"
       ],
       "last_modify": "2026-02-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/41/4f/0e414f96-d8ea-cb26-279c-dfd14f084fd4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/03/2c/8f032ce0-811b-1eb7-fd12-9f37618c679b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -2991,7 +2992,7 @@
         "ios"
       ],
       "last_modify": "2026-06-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/95/c7/d095c7fb-6f7c-8b47-9d9d-60c6491112d4/Zenitzer_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/d3/5d/28d35d46-2bdb-9793-a9bf-b7a54eb70ec9/Zenitzer_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "4x1P5Tnx": {
       "app_name": "MEGA",
@@ -4038,7 +4039,7 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6276,7 +6277,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e8/d3/e8e8d3bd-7ad0-9815-eac6-50541706a72f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/02/38/c1023876-dd9b-297a-c158-c930b00ae47c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "yjtogTGe": {
       "app_name": "企鹅电竞",
@@ -6883,7 +6884,7 @@
         "ios"
       ],
       "last_modify": "2026-07-11",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b6/cd/83b6cd0d-2430-2f4e-91cb-effa547db481/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/7c/2d/d97c2d36-53ee-b4be-8837-b1775f8f293c/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7213,7 +7214,7 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7300,7 +7301,7 @@
         "ios"
       ],
       "last_modify": "2026-07-06",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/46/14/2e461444-c7b7-b7ea-c544-7bde77c2742f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/d0/65/ead0654d-ed5a-452a-2b28-ad058ccc6a86/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pLmKZJKw": {
       "app_name": "TikTok - Videos, Shop & LIVE",
@@ -7412,7 +7413,7 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
