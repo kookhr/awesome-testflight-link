@@ -2159,7 +2159,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/da/22/73da22ee-583f-5d77-8a6f-ca7ced2f06e5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/68/e5/cb68e568-24e2-8e31-e680-9e0e9a4f4023/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "svD0JS3Z": {
       "app_name": "HealthFace",
@@ -2770,7 +2770,7 @@
         "ios"
       ],
       "last_modify": "2026-07-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/84/82/c684825a-7dbb-7dd6-7767-49d31c2fe0d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/53/94/77539478-aff8-0115-b1d5-4118dc105562/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "k9bRluZc": {
       "app_name": "Letter Letter",
@@ -6826,11 +6826,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17",
+      "last_modify": "2026-07-19",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c4/ff/20c4ffb2-6642-b7d5-5a2b-4e87bb1b16cb/AppIcon_Beta-0-1x_U007epad-0-1-0-85-220-0.png/120x120bb-80.png"
     },
     "WHIbsose": {
@@ -6858,7 +6858,7 @@
         "ios"
       ],
       "last_modify": "2026-06-29",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/bc/43/c2bc437f-fb9a-0a14-0983-ed041f8f534d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/b8/5f/4db85f5b-54f1-a7a4-0258-049e6922a618/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -7074,7 +7074,7 @@
         "ios"
       ],
       "last_modify": "2026-07-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/36/ba/1436ba8f-0ee1-7a94-c896-2ce0332505a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/60/ce/4260cef0-9b8b-9b93-1c2b-913507bba2a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
@@ -7360,7 +7360,7 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
