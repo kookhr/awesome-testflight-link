@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/53/59/e653599d-22bf-b8cc-8d41-8a075f240bc8/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/08/bd/9408bd5f-1af2-732c-a878-1eab2d4c8aa5/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2766,11 +2766,11 @@
     },
     "bExxpaX1": {
       "app_name": "Lenna - Video Library Player",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-16",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/96/1f/36961f8e-799c-a3cc-a460-b25f675c0d3a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "k9bRluZc": {
@@ -3306,7 +3306,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/77/df/9f77df09-da51-1671-cbaa-7d5b1de8f8b3/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/51/74/0d517422-ca6b-3340-5614-e3668a2ad439/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-0-0-85-220.png/120x120bb-80.png"
     },
     "vnMy8s64": {
       "app_name": "myNotes-Dark Themed Note App",
@@ -5306,7 +5306,7 @@
         "ios"
       ],
       "last_modify": "2026-07-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/53/a8/a553a8b3-820d-48c8-7b5f-d38b98bbb874/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ff/2f/c0ff2ff8-8b34-defb-2d68-ca8823f38833/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -6341,7 +6341,7 @@
         "ios"
       ],
       "last_modify": "2026-05-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/31/a2/c231a29c-b6c7-3c1d-3d8b-3b6bfdde3840/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/06/b4060689-72cc-ca2d-5260-7bcd1e14079f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wA5dBeFr": {
       "app_name": "喵滴-强大Markdown编辑器、笔记本、日记、待办",
@@ -6670,7 +6670,7 @@
         "ios"
       ],
       "last_modify": "2026-04-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/02/85/7e0285eb-d2b1-438e-98ae-416fe90c5038/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/2d/f7/ec2df736-f1f8-11a7-b45a-68e29384f906/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "Bh2Bo9ab": {
       "app_name": "豆瓣阅读",
@@ -6742,7 +6742,7 @@
         "ipados"
       ],
       "last_modify": "2026-02-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/18/5d/66185dbd-f73c-e0f9-811e-86be4efaa29c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/18/e7/cd18e79e-f09c-cfcc-32ec-dbbe87c9b818/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼 - 上闲鱼，赚一笔 !",
@@ -6800,11 +6800,11 @@
     },
     "8uVQrfHu": {
       "app_name": "AppRaven: Apps Gone Free",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-04",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/d0/e8/6bd0e8c8-485b-f3ec-e489-9b60c22391e1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "QN934ULR": {
@@ -6958,7 +6958,7 @@
         "ios"
       ],
       "last_modify": "2026-07-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/90/51/77905132-362c-c796-0135-0392ce7a25f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/df/6e/37df6e52-7120-a8a4-7445-b67208a7c6c7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7179,7 +7179,7 @@
     },
     "MY6JTzix": {
       "app_name": "Plex: Find Movies and TV Shows",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7312,7 +7312,7 @@
         "ios"
       ],
       "last_modify": "2026-07-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/de/c5/14dec5a7-f6fe-feb3-2192-78bc9b04362f/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/89/6b/a6896b75-22c3-fec3-629c-0a91088830c8/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7379,11 +7379,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-17",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/14/c8/2d14c801-d144-9be5-8138-607f49615353/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
@@ -7411,7 +7411,7 @@
         "ios"
       ],
       "last_modify": "2026-07-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/2f/da/a12fda28-60d1-ed56-43c3-716f04d64e62/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/03/3f/2c033f87-5461-023e-df55-9ca0d1bfb740/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
@@ -7424,11 +7424,11 @@
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-19",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/ec/a8/ececa83e-37e4-5ddc-4445-50cedfe966e8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     }
   }
