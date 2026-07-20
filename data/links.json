@@ -33,7 +33,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/86/6f/52/866f527b-1352-f8e1-fa8c-450e60fa8132/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/120x120bb-80.png"
     },
     "McBV96Wi": {
       "app_name": "2Do - Todo List, Tasks & Notes",
@@ -892,7 +893,7 @@
         "ios"
       ],
       "last_modify": "2026-07-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/a3/a1/e4a3a1f4-c783-9759-c1d5-37d1a1ac6964/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ce/41/f9ce4192-8315-1f35-f8da-9486f38ac0ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "WNoEZnby": {
       "app_name": "Coinsafe Testnet Beta",
@@ -1472,7 +1473,7 @@
         "ios"
       ],
       "last_modify": "2026-02-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/6d/56/ff6d56fe-f064-c4da-7e58-5c68b0ddbcf4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/30/13/62301393-759a-91ad-89d3-921881e0e753/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1517,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b2/4f/16b24f3f-49df-7bf7-7394-3fbe62ea138d/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/53/59/e653599d-22bf-b8cc-8d41-8a075f240bc8/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2770,7 +2771,7 @@
         "ios"
       ],
       "last_modify": "2026-07-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/53/94/77539478-aff8-0115-b1d5-4118dc105562/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/96/1f/36961f8e-799c-a3cc-a460-b25f675c0d3a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "k9bRluZc": {
       "app_name": "Letter Letter",
@@ -3491,7 +3492,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/c0/47/54c047ba-aca1-02f9-1457-fb160fbd0981/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/ff/a0/bcffa0f7-456e-5959-85d7-736730063fba/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -5444,11 +5445,11 @@
     },
     "cRWMcQsr": {
       "app_name": "Trello: Daily Task Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9c/aa/269caa4e-77fc-0130-cb4a-6d679417204e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "u4DHLMj1": {
@@ -6813,7 +6814,7 @@
         "macos"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/1a/a8/651aa854-64c1-2227-906b-8752fa1119d3/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/72/b7/cb72b76c-481c-f39c-2c8a-205e30abec1c/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -6826,11 +6827,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-19",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c4/ff/20c4ffb2-6642-b7d5-5a2b-4e87bb1b16cb/AppIcon_Beta-0-1x_U007epad-0-1-0-85-220-0.png/120x120bb-80.png"
     },
     "WHIbsose": {
@@ -6885,7 +6886,7 @@
         "ios"
       ],
       "last_modify": "2026-07-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/54/1d/ba541d15-c00c-3262-93f0-78e97a2d59ab/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/d9/fb/f4d9fb98-f900-b46c-c152-0edc6fc8cbd4/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6957,7 +6958,7 @@
         "ios"
       ],
       "last_modify": "2026-07-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/bc/6b/72bc6b35-9f26-4cde-5bf1-7c1364fee6dd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/90/51/77905132-362c-c796-0135-0392ce7a25f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7060,11 +7061,11 @@
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-18",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c4/61/b9c461bd-dd33-59fa-49ac-4e5fb28dc45d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "yYjKTTlT": {
@@ -7074,7 +7075,7 @@
         "ios"
       ],
       "last_modify": "2026-07-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/60/ce/4260cef0-9b8b-9b93-1c2b-913507bba2a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/36/ba/1436ba8f-0ee1-7a94-c896-2ce0332505a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "c6NtF2xP": {
       "app_name": "Moon FM - The Podcasts App",
@@ -7138,7 +7139,7 @@
         "ios"
       ],
       "last_modify": "2026-04-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/0c/ad/890cad12-a4ff-7c58-e2a8-6ec8bb5103dd/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/fb/0f/41fb0fab-9f7b-a0e4-f30c-2361cde9b4ae/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7156,7 +7157,7 @@
         "ios"
       ],
       "last_modify": "2026-07-09",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/ed/1e/d9ed1e93-b86d-d35d-ce11-c30dbeba08fe/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/2c/1d/fb2c1d68-0714-f361-5e77-a37d9ef01630/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "aaSgUXmq": {
       "app_name": "Pedal – Ride into the future.",
@@ -7178,11 +7179,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex: Find Movies and TV Shows",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-15",
+      "last_modify": "2026-07-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/c9/a2f4c929-7e48-0c74-71a1-ade5609f019a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "4qfWwXvP": {
