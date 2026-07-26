@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/e9/d9/aae9d9cd-d60f-3f4d-970a-892bfdbf1c27/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/55/41/355541ef-e8f3-da4a-aeb5-0ed2bee76de8/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -3154,7 +3154,7 @@
         "ios"
       ],
       "last_modify": "2026-03-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/96/a7/5f96a7df-1659-975e-07a5-29609fb0dcd5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f4/8e/40f48e73-5c35-493e-f862-168d7beaef8d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3492,7 +3492,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/c6/7d/45c67db3-ce87-dde6-2a24-d655ffc7a569/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/64/30/62643046-4b2e-1e79-aa53-7652eeabc802/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -3861,12 +3861,12 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-07-11",
+      "last_modify": "2026-07-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/bb/9b/8abb9b6a-6647-7b5c-ee72-54e2ea274620/RoyalBlue-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "UE75wprO": {
@@ -5088,11 +5088,11 @@
     },
     "OqYBblCA": {
       "app_name": "Streaks Workout",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-04",
+      "last_modify": "2026-07-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0f/6d/830f6d7d-1dbf-b132-99d4-1b16a9937632/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "auxSqon8": {
@@ -5229,11 +5229,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius - Modern SSH Client",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-24",
+      "last_modify": "2026-07-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/f7/27/ebf72788-8266-c3cc-1954-dd9dad42fefb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -6001,7 +6001,7 @@
         "ios"
       ],
       "last_modify": "2026-07-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/aa/7c/ecaa7c9a-8774-65d7-c520-c7fd555bc445/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/cd/44/a8cd449b-5e56-bab0-b246-f1cd0e483954/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "oKib5JOq": {
       "app_name": "VPN Windscribe: Fast & Secure",
@@ -6732,7 +6732,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/88/76/bf8876c7-6fc8-1d40-3bbb-d2c76e747758/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/da/9a/93da9a16-15c4-ea4c-9da2-379190b910a8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
@@ -6814,7 +6814,7 @@
         "macos"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/93/de/e593de01-f39d-2f0f-abd2-bbbb518165a7/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/69/9c/e6699cef-682f-2ece-e8f3-7d0e29714a12/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -6886,7 +6886,7 @@
         "ios"
       ],
       "last_modify": "2026-07-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/b1/29/2eb129f8-0536-6bba-781f-a6a99703fba2/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/56/fd825622-e6a3-b09c-2c8c-18ae1c0db9e8/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6952,13 +6952,13 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/dc/87/88dc8742-d757-f82d-a6ca-bb098072c205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "clHxFnLa": {
-      "app_name": "Lock Launcher - Screen Widgets",
+      "app_name": "Lock Launcher - Launch Apps",
       "status": "F",
       "tables": [
         "ios"
       ],
       "last_modify": "2026-07-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/f8/89/50f889f7-c0ee-01b5-f622-ba249fded885/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6d/a4/ea6da4c1-8938-1eb2-4a07-7986bfe08367/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7139,7 +7139,7 @@
         "ios"
       ],
       "last_modify": "2026-04-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/e3/36/12e3366c-e493-4cfa-bc6a-975a5c3e4f82/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fd/24/72fd24a1-2aa2-f515-9dea-3244d35a406d/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
