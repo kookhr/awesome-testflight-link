@@ -1473,7 +1473,7 @@
         "ios"
       ],
       "last_modify": "2026-02-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/03/29/ed032939-d2cf-d0f4-322d-e900589691a6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/f5/2d/31f52d52-8e6d-60ba-c451-b4026d7f9e31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -2289,13 +2289,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-04-15",
+      "last_modify": "2026-07-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/a7/11/44a7116b-ff13-6af6-6145-25acdeae0610/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
@@ -3861,7 +3861,7 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
@@ -5229,7 +5229,7 @@
     },
     "MnuClabg": {
       "app_name": "Termius - Modern SSH Client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
@@ -6859,7 +6859,7 @@
         "ios"
       ],
       "last_modify": "2026-07-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/79/76/ac797670-e137-9971-63c6-1674145f614e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f5/73/28f57366-67c9-d762-791b-67a9c0550447/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6886,7 +6886,7 @@
         "ios"
       ],
       "last_modify": "2026-07-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/56/fd825622-e6a3-b09c-2c8c-18ae1c0db9e8/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/93/39/4393393e-1434-5096-6891-f1a907fa3888/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7411,7 +7411,7 @@
         "ios"
       ],
       "last_modify": "2026-07-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/d3/b4/0ad3b49b-fdcb-fa8f-e2a1-a9fef2e98999/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/1c/40/9a1c40b7-3740-3415-fe87-50bffbabe2a0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
