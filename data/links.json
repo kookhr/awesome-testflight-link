@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a8/2a/27a82a11-b919-d4a5-5e60-65e213e4309d/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d1/c5/c6d1c5b2-5eca-fab6-412f-0c7d33aa7d72/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -4041,7 +4041,7 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6057,7 +6057,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/a4/0b/85a40b8a-4960-090e-49c7-c867cddc6048/AppIconLegacy-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/1c/99/b31c99c7-6ad5-f662-c32c-691bff6d9715/AppIconLegacy-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "8wa9T053": {
       "app_name": "World Clock Time Widget",
@@ -6793,11 +6793,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-07-31",
+      "last_modify": "2026-08-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/ed/03/d4ed03f7-ebbe-33b3-7c5a-2a12dbf2ff22/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6861,7 +6861,7 @@
         "ios"
       ],
       "last_modify": "2026-07-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/08/31/40083179-fbfc-22d9-28a7-0194dc7435fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/a9/b6/fca9b66a-a9b6-28a5-a23d-d1e5f1a2f50f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6883,12 +6883,12 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/a3/a9/dba3a902-e1db-fedb-4658-354d94206ee2/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-08-01",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/bf/f7/c3bff72b-c926-12d6-776f-44bcd4791994/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6955,11 +6955,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Launch Apps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-22",
+      "last_modify": "2026-08-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0c/59/000c591c-b2a0-bd82-a3e1-e4a7bedf24b4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
@@ -7054,7 +7054,7 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7091,7 +7091,7 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7109,11 +7109,11 @@
     },
     "7yLzN5td": {
       "app_name": "Musixmatch Dynamic Lyrics",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25",
+      "last_modify": "2026-08-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/73/06/757306c6-2d58-779f-ae3b-203c723bc665/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "iHcEgAaT": {
@@ -7154,7 +7154,7 @@
     },
     "37azzGPG": {
       "app_name": "Overcast: Podcast App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7190,11 +7190,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-28",
+      "last_modify": "2026-08-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a2/ea/3ea2ea52-1d18-8ac2-a02b-da45ecfb4956/AppIcon-0-0-85-220-0-0-0-6-0-2x-sRGB.png/120x120bb-80.png"
     },
     "RKN8upW7": {
@@ -7259,7 +7259,7 @@
         "ios"
       ],
       "last_modify": "2026-07-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/ef/e7/28efe779-6efb-bf94-dc2f-67f2301f9b98/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/1f/92/481f9224-19d3-7381-df1c-6a3301079175/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7300,11 +7300,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-25",
+      "last_modify": "2026-08-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f3/a7/bff3a758-dd0c-6923-1987-f5edc5c5667f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pLmKZJKw": {
@@ -7390,7 +7390,7 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《脱口秀3》独播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
