@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d1/c5/c6d1c5b2-5eca-fab6-412f-0c7d33aa7d72/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/94/80/3b948038-35ac-4b18-dc1a-1b2237d9f5b4/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2772,7 +2772,7 @@
         "ios"
       ],
       "last_modify": "2026-07-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/9d/98/249d9810-36d6-7c87-39e7-5a5ebe86dbc3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/09/a8/4109a874-34ca-076f-f53b-86dee25c7332/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "k9bRluZc": {
       "app_name": "Letter Letter",
@@ -4041,7 +4041,7 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -4050,11 +4050,11 @@
     },
     "uNlhFG0m": {
       "app_name": "PPSSPP - PSP emulator",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-15",
+      "last_modify": "2026-08-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/97/73/6c9773c6-de03-3ec8-a646-6e74f5563a05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "ZYsBYMhT": {
@@ -4413,7 +4413,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d0/63/09d06356-6d7c-e6df-c012-4815cd2f6f4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/03/dd/7d03dd6f-3a7c-3b0d-de2e-53f0fbe2ae5a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "ORz3QWRv": {
       "app_name": "RocketSim for Xcode Simulator",
@@ -5231,11 +5231,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius - Modern SSH Client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-31",
+      "last_modify": "2026-08-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/3d/1f/b93d1fc4-4a35-ea79-77e2-cb0098c118bb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -5717,20 +5717,20 @@
     },
     "mFlnyMv3": {
       "app_name": "UTM Remote Virtual Machines",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30",
+      "last_modify": "2026-08-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/48/07/ae4807e1-d1bb-4210-78ad-1532317b02ca/AppIcon-Remote-0-0-1x_U007epad-0-9-0-85-220.png/120x120bb-80.png"
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-02-02",
+      "last_modify": "2026-08-02",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ad/8a/31ad8a3b-7f99-41f0-a012-54295ff92b78/AppIcon-0-0-85-220-0-0-5-0-2x.png/120x120bb-80.png"
     },
     "cvx4MQuh": {
@@ -6816,7 +6816,7 @@
         "macos"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/43/8b/97438bb5-de1e-2e96-ea05-9cfdc72d8630/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/37/24/cf37240f-5a4c-1dd6-5470-07c9699468b6/AppIcon-0-0-85-220-0-5-0-2x.png/120x120bb-80.png"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -6829,7 +6829,7 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7027,7 +7027,7 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7154,7 +7154,7 @@
     },
     "37azzGPG": {
       "app_name": "Overcast: Podcast App",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
