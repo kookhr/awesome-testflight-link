@@ -83,7 +83,7 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard Ad Blocker for Safari",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
@@ -731,7 +731,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/06/2a/a7062a92-9728-6f1a-daa9-5af111cdc84f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/6f/45/f16f4559-3dc6-6ce9-1beb-a52afb07b671/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "6KLsLMFG": {
       "app_name": "Champion of the Fields",
@@ -924,12 +924,12 @@
     },
     "TEnBWi68": {
       "app_name": "Collabora Office",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/36/d6/1936d62b-0ba5-950e-7c9e-6406ae454205/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/120x120bb-80.png"
+      "last_modify": "2026-08-08",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f8/d4/09f8d42c-0310-eb01-7b48-dc0d4400d0c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "7JecM2hD": {
       "app_name": "Color Capture",
@@ -1473,7 +1473,7 @@
         "ios"
       ],
       "last_modify": "2026-02-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/22/e5/cf22e53f-22d7-217e-b611-4ba348c4066e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/47/40/aa47403e-822e-91b1-bdea-2d32d4d760d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/bb/1d/61bb1d53-2567-5c1f-6773-073a723c5d3c/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/09/b0/1e09b0db-8b1a-34bc-82dd-3a42576e706d/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -6796,11 +6796,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-06",
+      "last_modify": "2026-08-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/ed/03/d4ed03f7-ebbe-33b3-7c5a-2a12dbf2ff22/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6931,11 +6931,11 @@
     },
     "In6e3GcJ": {
       "app_name": "Infltr - Infinite Filters",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-06",
+      "last_modify": "2026-08-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/22/22/4e222234-5a16-c51f-82da-471173688feb/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/120x120bb-80.png"
     },
     "97i7KM8O": {
@@ -7017,7 +7017,7 @@
         "ios"
       ],
       "last_modify": "2026-07-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/eb/2e/b3eb2e46-f92b-6eb1-ce16-092d9e529c9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/15/ed/b615ed89-366c-ff80-97b6-b8a969dd1394/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
@@ -7094,7 +7094,7 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7321,11 +7321,11 @@
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05",
+      "last_modify": "2026-08-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b2/b7/88b2b715-339b-1dbb-e1a1-4766734b92f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "oscYikr0": {
@@ -7393,11 +7393,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《花开锦绣》公路古装",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-07",
+      "last_modify": "2026-08-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b76164-9f7b-a505-83d7-e3469d47017c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wUz8czx3": {
