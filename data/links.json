@@ -409,7 +409,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/1f/ce/a31fce5d-b8c4-0f1c-207a-f6fcae7b1c50/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e1/47/dce147c5-9cab-2a81-5bfb-0ccff2e06c97/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
     },
     "ICUaKS17": {
       "app_name": "BeSafe",
@@ -2915,7 +2915,7 @@
         "ios"
       ],
       "last_modify": "2026-06-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/1f/12/1b1f12ed-297d-2047-4ea4-c6944d57ac33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/22/79/942279ff-3401-a00a-0b21-41973e2e8cfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -3156,7 +3156,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/39/26/83392665-c281-3c09-f62e-8b0b3cd83c5d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5d/17/fe5d1760-5751-1f08-7641-fcbfc8e03b8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -4042,11 +4042,11 @@
     },
     "cjHQ9k71": {
       "app_name": "PowerNFC",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-06",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/ab/62/6fab62a2-c11b-9414-b57d-d3678357e085/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "uNlhFG0m": {
@@ -5232,11 +5232,11 @@
     },
     "MnuClabg": {
       "app_name": "Termius - Modern SSH Client",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-11",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/3d/1f/b93d1fc4-4a35-ea79-77e2-cb0098c118bb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "yo6Od7Pt": {
@@ -6958,11 +6958,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Launch Apps",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c7/2d/14c72d9e-b27b-04cb-3a27-1b36592ad34b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
@@ -7012,11 +7012,11 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/9a/19/149a19cf-a9fe-12cb-c9d7-d8231fa4fc4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "QkU4VS1s": {
@@ -7026,7 +7026,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/e9/1a/59e91a3a-8d42-61a9-86ff-ce21ffe2a772/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8a/76/ad8a7698-baec-dc51-0613-9bf832f82110/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -7039,11 +7039,11 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey AI Keyboard",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-05",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/87/aa/eb87aa7d-1b0c-1396-d3ca-e853338e4813/AppIcon-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220-0.png/120x120bb-80.png"
     },
     "hw76phYi": {
@@ -7253,7 +7253,7 @@
         "ios"
       ],
       "last_modify": "2026-08-03",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/34/c5/c634c542-7e37-f607-d643-f35eda86d6b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/93/0b/3e930bbf-0008-3349-0545-86d49f53ebfd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7312,11 +7312,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok - Videos, Shop & LIVE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/1e/14/581e1438-3f19-addf-c4ae-63954222211a/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
@@ -7384,11 +7384,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-15",
+      "last_modify": "2026-08-16",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/22/ef/c422ef9c-7fdb-b669-6cdd-b247b5bc1439/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
