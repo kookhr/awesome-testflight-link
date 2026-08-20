@@ -1473,7 +1473,7 @@
         "ios"
       ],
       "last_modify": "2026-08-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/71/13/09711311-ee97-29d7-ae4e-08d17439d218/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ef/da/0befda63-77be-c0a3-d0eb-43bb31aa7395/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1518,7 +1518,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/88/99/b68899c1-9206-eb3a-d105-116b04db5912/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/87/f9/2687f9c7-50c8-b306-4d27-e5965f9114c5/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2298,7 +2298,7 @@
         "macos"
       ],
       "last_modify": "2026-08-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/6d/38/dd6d38c1-2c13-2d3d-ad46-d0444c42daa8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/d7/4c/f9d74c97-b1b9-bf0c-f6f0-c1cdf50a8106/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
       "app_name": "Home Assistant Companion",
@@ -3334,7 +3334,8 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-06-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/67/b3/cf67b3d4-fcd6-5f1b-7518-407bc1868d04/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync - Syncthing iOS",
@@ -3863,7 +3864,7 @@
     },
     "qCCdSLT1": {
       "app_name": "PCalc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
@@ -4333,7 +4334,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/8c/cb/598ccbae-55b6-3d4d-39e3-7dab01acf8d1/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b0/19/80b01999-2ca3-8d57-0651-de3a2cd1d78f/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
@@ -5304,12 +5305,12 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
       "last_modify": "2026-08-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/a4/c1/fba4c1eb-953a-5eb7-3080-1582d1a5774a/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/f7/39/61f73965-6a57-3b9e-118e-d5324790a99b/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -5435,7 +5436,7 @@
         "ios"
       ],
       "last_modify": "2026-07-21",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/2a/c5/a82ac593-3169-be1c-6a79-5b5337366dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/e7/8c/d3e78c9b-8280-beae-46fa-a63166a09dda/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "UDzzeGjK": {
       "app_name": "TravelTracker Beta",
@@ -5624,7 +5625,7 @@
         "ios"
       ],
       "last_modify": "2026-04-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2d/22/fb2d225c-7f3d-9a0b-77eb-d571fdf45358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/d8/3e/25d83e2e-2b22-c8e4-94a2-0a9b3a0695f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "EkFJsGvX": {
       "app_name": "UniFi Protect",
@@ -5995,7 +5996,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/d8/1b/d3d81b46-5e10-ba09-515a-7aaca84df54d/wikipedia-app-icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/c7/6e/f2c76eb2-ff4d-00bf-2463-e0d4fb868c82/wikipedia-app-icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile Beta",
@@ -6407,7 +6408,7 @@
         "ios"
       ],
       "last_modify": "2026-04-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/78/14/1e78147f-9aec-2923-31b2-35603bcb1798/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/82/62/14826231-5723-6ea7-9a11-a3f0f0319f9a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6468,7 +6469,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a3/95/6ca39506-e2c1-e72a-dd41-1b3ad6fcbb92/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/9b/9c/fa9b9c2a-b7b0-ed8b-48b6-ce957af7a1a7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "qMCQlMiZ": {
       "app_name": "熊猫吃短信",
@@ -6522,7 +6523,7 @@
         "ios"
       ],
       "last_modify": "2026-04-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/97/8f/81978f64-610e-566e-ac96-24f2f84784e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/e6/3f/0be63fb2-5c87-93a1-59a4-6561da2385c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "A0HM2av9": {
       "app_name": "百度网盘 HD",
@@ -6603,7 +6604,7 @@
         "ios"
       ],
       "last_modify": "2026-04-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f2/7a/6af27a20-3ba4-6fe2-8e26-a101c4b2ddcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/9a/21/ec9a21de-62e7-01ea-6ef4-e9c0bcd2c567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
       "app_name": "网易云音乐 HD",
@@ -6732,12 +6733,12 @@
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐 - 就是歌多",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/8b/f7/4b8bf73d-29c4-0964-d29e-2ad9f4706311/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-08-20",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/86/c5/1d86c5b0-6c4c-99d4-1dd3-d77615b42b7b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
@@ -6918,7 +6919,7 @@
         "ios"
       ],
       "last_modify": "2026-08-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fd/e9/6afde958-3c4d-6ce4-08f2-4524a4caeed9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/5e/a8/865ea82b-3d57-6f41-b7fc-85a82ceb17fd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pm1jk978": {
       "app_name": "iCost记账-快速简洁好用的记账理财助手&记账软件",
@@ -6940,7 +6941,7 @@
     },
     "97i7KM8O": {
       "app_name": "iSH Shell",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6963,7 +6964,7 @@
         "ios"
       ],
       "last_modify": "2026-08-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/01/cb/8501cbdc-153c-45df-0f8d-ca3da708c63d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/60/ad/e260adbe-7080-c25d-0577-cd9e40e69b3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7026,7 +7027,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8a/76/ad8a7698-baec-dc51-0613-9bf832f82110/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/3e/bc/4a3ebc53-afe0-39c2-308e-1a1736c39ede/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -7103,11 +7104,11 @@
     },
     "uaazZoIc": {
       "app_name": "MusicHarbor - Track New Music",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19",
+      "last_modify": "2026-08-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f0/94/03f0946e-8cfb-6c89-d78e-c9b34e94c426/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "7yLzN5td": {
@@ -7248,7 +7249,7 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7272,7 +7273,7 @@
         "tvos"
       ],
       "last_modify": "2026-08-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/d1/47/a0d1476b-03ac-144d-a056-21de23a90b4a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/e2/02/5be20264-8fd4-7a3c-c30f-4ae99f2287bb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "8BOPXsGz": {
       "app_name": "Steam Mobile",
@@ -7317,7 +7318,7 @@
         "ios"
       ],
       "last_modify": "2026-08-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/82/f8/8382f8cf-708a-6b3c-b46b-8f757f15e0c7/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/29/4a/89294a65-3403-93af-6d57-cb3c8372226f/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7380,15 +7381,15 @@
         "ios"
       ],
       "last_modify": "2026-08-11",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e1/e4/94e1e4ad-5ea6-952c-c83f-b251a2d13501/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e9/ab/8ae9abc3-ca54-0879-6713-dc9aaf1d3fd0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19",
+      "last_modify": "2026-08-20",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/b2/c161b2ac-dc44-727e-ec58-5acaabcac802/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
@@ -7420,7 +7421,7 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
