@@ -1854,11 +1854,11 @@
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-10",
+      "last_modify": "2026-08-30",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/64/c5/4264c588-ec04-1015-37e4-73c188eda565/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "HktpUEoB": {
@@ -6798,11 +6798,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-08-22",
+      "last_modify": "2026-08-30",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/ed/03/d4ed03f7-ebbe-33b3-7c5a-2a12dbf2ff22/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6893,7 +6893,7 @@
         "ios"
       ],
       "last_modify": "2026-08-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/43/1dfa4344-c9a3-7da6-0f7d-49c54e5f405b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/bd/df/85bddfef-4b7f-44e8-588e-9b6f970c0530/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6906,11 +6906,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App Wi-Fi",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-18",
+      "last_modify": "2026-08-30",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/2c/79/ad2c7993-c73b-eaa0-ba5d-382ba01bea2a/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
     },
     "LPQmtkUs": {
@@ -7223,11 +7223,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-27",
+      "last_modify": "2026-08-30",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/35/0b/57350b92-2f00-d635-07ff-45281c69d4af/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "kBS5mVao": {
@@ -7368,11 +7368,11 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28",
+      "last_modify": "2026-08-30",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/88/c8/4388c8eb-fae4-0b01-8263-cad377bc19ec/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "GgBqXAqm": {
