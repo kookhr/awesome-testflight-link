@@ -169,7 +169,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/ca/7d/24ca7d42-553e-343c-2ca3-b1ea00e5bec4/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/11/b0/9611b017-a6bd-7c04-1b32-c4436ef1ce58/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "E7U0UsBs": {
       "app_name": "AirPlay 便捷切换工具",
@@ -1519,7 +1519,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/dc/8a/33dc8ae0-5276-f4e2-e352-754218a4b04e/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/dd/ec/feddec9a-0bd0-beab-9dd4-f86c5bffded5/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2300,7 +2300,7 @@
         "macos"
       ],
       "last_modify": "2026-08-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/fc/4c/45fc4cbf-c633-5a43-c741-d4f4ffeae759/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/13/fb/e613fb88-ae44-f4bc-f7dd-20982a795aa6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
       "app_name": "Home Assistant Companion",
@@ -4701,11 +4701,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-06",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6d/4d/cf6d4db2-88ea-be63-2a06-d575d71452c6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "Zm4lMILC": {
@@ -4804,7 +4804,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/69/70/ea697085-b65c-e193-3c5f-d52d9308f1dc/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/ac/84/97ac8471-e35d-6e8a-0c94-43d328ddf251/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -4921,7 +4921,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/90/32/ca9032ef-c45b-55b0-5b77-54ea0fed84f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/d6/00/34d6005e-cea5-a193-da9a-d324028437d1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "mFLqaDY5": {
       "app_name": "Spartan Runner X",
@@ -5307,12 +5307,12 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-06",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/d5/b7/54d5b7c9-4566-c56a-fc87-1d7666f30848/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-09-07",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/b3/63/dab363ea-9078-17e9-cf3b-ad82cbf422f8/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -6601,11 +6601,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/bc/82/64bc829f-3c0b-a6ff-94ce-af09fe6421c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
@@ -6759,7 +6759,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/57/55925763-d056-7060-ad67-52bb6712c138/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/8e/a7/758ea7e7-9b48-578b-11ce-7492b50deb3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "yi8oG8bi": {
       "app_name": "阿里云盘",
@@ -6907,11 +6907,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App Wi-Fi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-30",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/2c/79/ad2c7993-c73b-eaa0-ba5d-382ba01bea2a/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
     },
     "LPQmtkUs": {
@@ -6961,11 +6961,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Launch Apps",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-06",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/7d/6c/4f7d6c8e-a335-0cc8-cf85-364251314d87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
@@ -7196,11 +7196,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-02",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/8f/e1/b48fe1f4-ad24-9886-22c0-033b525f36ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "RKN8upW7": {
@@ -7256,7 +7256,7 @@
         "ios"
       ],
       "last_modify": "2026-09-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/75/ec/7775ec7d-1291-46cc-c049-58dc00af72c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/a3/9073a32e-b36e-4140-0011-fc230a398c2a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7306,11 +7306,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-02",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/83/4d/30834d56-b192-a391-2c88-f01926e402cf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pLmKZJKw": {
@@ -7320,7 +7320,7 @@
         "ios"
       ],
       "last_modify": "2026-09-06",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/34/8c/79348c82-ee11-9605-08b1-4c7141ad943e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0c/55/560c55f5-cfbb-6541-bd36-aecb1e2550e6/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7423,20 +7423,20 @@
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/95/f5/e395f5fa-231e-3375-a570-a6b6da5e9cee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-22",
+      "last_modify": "2026-09-07",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d4/7a/2bd47a48-8a9f-2d05-16e4-31c43bdf1860/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     }
   }
