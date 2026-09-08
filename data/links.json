@@ -1519,7 +1519,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/dd/ec/feddec9a-0bd0-beab-9dd4-f86c5bffded5/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/0f/14/830f1438-e61f-1496-f5ce-8011baa7a6ce/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2506,7 +2506,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/40/5d/15405d3c-364f-6a26-d0ea-69564e40d025/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/d6/01/7bd60186-ceae-0dd7-86db-9afe5c348ac9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "C57z8lm0": {
       "app_name": "Jetsam",
@@ -4171,11 +4171,11 @@
     },
     "GPJZwnh9": {
       "app_name": "Qobuz: Music & Editorial",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ae/bb/61aebb0c-dfc7-faef-85b4-897c671fc29e/AppIcon-Beta-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "R5FNGUl3": {
@@ -4239,7 +4239,7 @@
         "ios"
       ],
       "last_modify": "2026-08-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/2d/4f/712d4f90-de80-2604-fda6-d7e53eb93a9b/RainViewerAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/6b/19/ec6b1997-74c0-942d-89bf-2c96fe29f8ed/RainViewerAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "T9AgTf4F": {
       "app_name": "RAPGOD.ai",
@@ -5307,11 +5307,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/cd/aa/e6cdaae9-5834-d3fd-1317-ada88484c01e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
@@ -6525,7 +6525,7 @@
         "ios"
       ],
       "last_modify": "2026-04-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/fb/12/15fb1214-428a-163b-7be6-539593fbc635/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/bd/50/30bd5065-d289-4aa1-101d-1bbbb66af72b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "A0HM2av9": {
       "app_name": "百度网盘 HD",
@@ -6601,11 +6601,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/59/7b/68597b25-9ac9-3b5b-45e4-d32b728851cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
@@ -6835,11 +6835,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave Beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/49/07/2b4907f5-5548-40af-7ba1-4a6a4d2c0d3a/AppIcon_Beta-0-1x_U007epad-0-1-0-85-220-0.png/120x120bb-80.png"
     },
     "WHIbsose": {
@@ -7006,11 +7006,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Copilot",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/81/73/288173ad-d1bc-5f38-ab50-c108c1641179/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "LtgPLzrQ": {
@@ -7147,7 +7147,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/4c/d2/8f4cd265-5731-015a-525b-c99082d1a474/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/97/07/f2970767-e027-7e83-555d-e38a7aba806b/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7205,11 +7205,11 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/0f/15/f50f15f8-dc5c-1db8-10e6-a3adc96e5fad/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "VCIvwk2g": {
@@ -7256,7 +7256,7 @@
         "ios"
       ],
       "last_modify": "2026-09-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/a3/9073a32e-b36e-4140-0011-fc230a398c2a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/99/6a/61996a4f-1b04-67f2-9adb-d8a890cad436/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7265,7 +7265,7 @@
         "ios"
       ],
       "last_modify": "2026-08-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/36/8c/e1368cc3-7115-f211-cfae-68b309b55969/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/46/0f/2b460fc4-aa9f-4788-c89d-6e8ecab7d2c0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7315,11 +7315,11 @@
     },
     "pLmKZJKw": {
       "app_name": "TikTok - Videos, Shop & LIVE",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/22/79/4f2279ac-21ca-f1e5-8586-a845fe5bf046/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
@@ -7383,7 +7383,7 @@
         "ios"
       ],
       "last_modify": "2026-08-11",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/50/30/2f5030d7-8a0a-05df-1f80-b1454f34932a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ae/5b/4cae5bdc-bc29-d74c-f65b-a2862a96a5f8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -7405,11 +7405,11 @@
     },
     "wUz8czx3": {
       "app_name": "豆包输入法 - 豆包同款语音输入",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-04",
+      "last_modify": "2026-09-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/46/f4/d046f43e-f3e2-7713-01bf-d79650c07e55/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/120x120bb-80.png"
     },
     "TX6YlL2B": {
