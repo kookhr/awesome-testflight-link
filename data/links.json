@@ -1279,11 +1279,11 @@
     },
     "k4JX7jYx": {
       "app_name": "Drippi: Liquid Timer",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-01-30",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/77/c4/6d77c41f-2145-59ff-a6dd-7c509f8feaa7/GloopIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "LBZaRq4I": {
@@ -1474,7 +1474,7 @@
         "ios"
       ],
       "last_modify": "2026-08-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/19/70/2919700a-6b5f-bdf3-adbe-83f93fc3c866/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/94/5f/76945f0b-3e15-5c81-2ed5-1d1483613f3e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1519,7 +1519,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/59/33/03593377-6d18-5fee-9797-034a1be0904c/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/56/55/c6565510-508e-b97f-95dd-2890d5217c80/fedicat-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1943,11 +1943,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/8d/86/418d8696-964d-9fcb-0c29-8663cfc3fb9a/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/120x120bb-80.png"
     },
     "qfPzqQM0": {
@@ -3497,7 +3497,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/61/c9/0f61c917-84fa-c5d1-9dbc-ccb436109a17/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/92/d5/ea92d584-8e8b-c340-afc0-0cfc13d1fb28/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -4336,7 +4336,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/42/6a/e2426a30-728a-2a23-1c1d-45f93e452ccc/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/17/9f/a9179f6a-411f-cd1e-84cc-7ae948c3554b/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
@@ -5307,11 +5307,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/08/65/e9086595-bfa1-8ca8-b7ab-905e4fbfc28b/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
@@ -6119,11 +6119,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-19",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ce/20/a9ce20b6-cea0-95ff-4584-e4fd70a63e43/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/120x120bb-80.png"
     },
     "wytcNylk": {
@@ -6597,7 +6597,7 @@
         "tvos"
       ],
       "last_modify": "2026-01-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/64/d2/5d64d20a-21e0-3a4e-5c2b-dd19b9360df6/App_Icon_-_Small-marketing.lsr/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/27/27/15272773-fef5-b98d-c232-8d73525b1195/App_Icon_-_Small-marketing.lsr/120x120bb-80.png"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
@@ -6867,7 +6867,7 @@
         "ios"
       ],
       "last_modify": "2026-09-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/6d/98/3c6d98e2-ce58-567c-74b6-c7707d4ced72/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f8/5b/73f85b45-2fff-dcff-1709-733943720ed7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6894,7 +6894,7 @@
         "ios"
       ],
       "last_modify": "2026-08-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/02/d2/a402d2c6-3d7a-fa81-87d2-15091eb73c72/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/0f/f3/800ff3c4-81a1-a329-4a57-a2304496fece/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6966,7 +6966,7 @@
         "ios"
       ],
       "last_modify": "2026-09-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b2/f2/9db2f2ee-8538-98e1-7eec-eb6254a6f3fd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/2a/5a/f42a5a9f-ac9f-43eb-778c-801a7e4c92ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7006,11 +7006,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Copilot",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c0/42/16c042bb-1707-8bfc-beec-86f5e3cd7e03/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "LtgPLzrQ": {
@@ -7220,15 +7220,15 @@
         "tvos"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/03/e9/7d03e909-72a0-25c3-5205-d650736fcc47/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/46/97/7c469755-1d74-7940-2a41-401a951751ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-12",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/03/5c/9a035c40-3172-51df-9722-a1d80cf8b5fb/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "kBS5mVao": {
@@ -7256,7 +7256,7 @@
         "ios"
       ],
       "last_modify": "2026-09-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/cd/7c/c1cd7c6b-c645-cfc3-8f50-ec415762c2b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/8f/ed/098fedbc-3496-5b29-ebe4-9728153acfcd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7374,7 +7374,7 @@
         "ios"
       ],
       "last_modify": "2026-08-31",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/14/b2/3b14b205-08a5-f565-9624-ff2ce67f5368/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/06/00/fa0600e2-781d-0da8-f0bd-e5779a7e4e91/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧-聊兴趣，上贴吧",
@@ -7396,11 +7396,11 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《兰香如故》独播",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-06",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/04/8c/a9048cb3-5c1c-d506-98cc-517e4fd9f153/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wUz8czx3": {
