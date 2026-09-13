@@ -2300,7 +2300,7 @@
         "macos"
       ],
       "last_modify": "2026-09-09",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/a1/4f/e5a14ff4-de6f-b4c6-da90-4ebd48b71623/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/6c/fa/736cfa2e-6826-f081-f38f-002aceca34ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
       "app_name": "Home Assistant Companion",
@@ -3497,7 +3497,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/92/d5/ea92d584-8e8b-c340-afc0-0cfc13d1fb28/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/74/70/b5747012-4d4a-305c-7f76-a1b577db96e8/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -4894,7 +4894,7 @@
         "ios"
       ],
       "last_modify": "2026-04-23",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/09/0f/5c090fc7-82e0-5f94-3149-990d6ec52f61/Soulver-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/24/c8/b724c8de-e8dc-a9f6-6955-63740bccf176/Soulver-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pglwyYBC": {
       "app_name": "Sous Vide °Celsius",
@@ -5032,11 +5032,11 @@
     },
     "5hmQk6ba": {
       "app_name": "Star Wander - AR Night Sky Map",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-02",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/4c/81/2f4c818c-28c9-ed81-733f-765d9c328305/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "Ecz0xXvf": {
@@ -6007,7 +6007,7 @@
         "ios"
       ],
       "last_modify": "2026-09-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/ed/15/2aed157c-4b91-7abd-db28-528f594218d5/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/94/aa/f294aa84-a5c4-788e-e840-a825c715db41/AppIconBeta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "oKib5JOq": {
       "app_name": "VPN Windscribe: Fast & Secure",
@@ -7147,7 +7147,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/81/de/8e81de88-6b88-c584-83d9-06919c3af7a2/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ce/19/1ece1978-99ae-8db0-c5a1-4b1511e0c7f6/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7269,12 +7269,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-09-10",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c8/d3/35c8d39e-a903-08fd-6958-fbe09c5272dd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "8BOPXsGz": {
@@ -7297,11 +7297,11 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28",
+      "last_modify": "2026-09-13",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/f9/be/85f9bead-291e-cfea-52b5-51e4f7814f30/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "eP0BTwVi": {
@@ -7396,7 +7396,7 @@
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《兰香如故》独播",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
