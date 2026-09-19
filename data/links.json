@@ -674,11 +674,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot: Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09",
+      "last_modify": "2026-09-19",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/fd/61/69fd619c-2926-e56d-9000-541e2c70b7e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
@@ -790,11 +790,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet: Sticky Note Widget",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22",
+      "last_modify": "2026-09-19",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/cb/3e/d3cb3ef0-969c-90e0-a348-08cd15cd4a35/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "K120Muoy": {
@@ -1474,7 +1474,7 @@
         "ios"
       ],
       "last_modify": "2026-09-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b6/0f/88b60f4c-f365-df22-f15e-6bf8edbee012/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/81/7a/79817af3-0190-e1ee-79f4-661bfa3ab005/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1519,7 +1519,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/04/05/c9040576-fb76-3b18-ed3c-e59f5395ae76/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/9d/56/fc9d56e8-f196-7905-fa34-8d6acf233784/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1622,11 +1622,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta web browser",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-22",
+      "last_modify": "2026-09-19",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/7f/bb/8f7fbb1f-73ea-668e-f14a-340e20cdf2ea/AppIcon_Beta-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "dH8lkFZi": {
@@ -6171,7 +6171,7 @@
         "ios"
       ],
       "last_modify": "2026-09-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/14/9033146a-6962-3bde-bc7a-017baeb3021f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4f/07/cb4f0709-3c11-46c6-4fcd-fd48477ee26a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "drGYCl49": {
       "app_name": "Yala!",
@@ -6742,7 +6742,7 @@
         "ios"
       ],
       "last_modify": "2026-08-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ac/bb/54acbbee-44e7-f7d8-dfb1-6b4f172faeea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/37/63/00376344-3f2b-b33f-73b4-4c25c5057945/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 & 预算 & 资产管理",
@@ -6752,7 +6752,7 @@
         "ipados"
       ],
       "last_modify": "2026-02-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9d/d2/009dd2e9-5732-92ca-b6bf-4b98e3c3c3b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/47/84/a74784d9-21be-b1d2-5d28-ff2852534140/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "JfpY3pHe": {
       "app_name": "闲鱼 - 上闲鱼，赚一笔 !",
@@ -6896,7 +6896,7 @@
         "ios"
       ],
       "last_modify": "2026-08-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/72/63/01726377-7de5-f81d-d055-98c9100afaee/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8e/f0/668ef0cf-8378-35e8-25c6-63f95f4ecb5a/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7008,7 +7008,7 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Copilot",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7031,7 +7031,7 @@
         "ios"
       ],
       "last_modify": "2026-09-03",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/75/de/7575de2c-2cd6-7f78-567c-c3d447f7178a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/87/e1/6d87e1b0-7ae9-1dce-1233-eaee284183a2/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
@@ -7044,7 +7044,7 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey AI Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7299,7 +7299,7 @@
     },
     "u6iogfd0": {
       "app_name": "Telegram Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
