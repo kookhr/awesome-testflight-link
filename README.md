@@ -9,11 +9,11 @@ Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 
 | Platform | ✅ Available | ⚠️ Full | ❌ Closed | 🗑️ Removed | Total |
 | --- | --- | --- | --- | --- | --- |
-| iOS | 169 | 58 | 575 | 3 | 805 |
+| iOS | 169 | 59 | 574 | 3 | 805 |
 | iPadOS | 7 | 1 | 5 | 0 | 13 |
-| macOS | 8 | 2 | 15 | 0 | 25 |
+| macOS | 9 | 2 | 14 | 0 | 25 |
 | tvOS | 3 | 3 | 1 | 0 | 7 |
-| **Total** | **178** | **61** | **587** | **3** | **829** |
+| **Total** | **178** | **62** | **586** | **3** | **829** |
 
 
 ## 📊 Status Legend
