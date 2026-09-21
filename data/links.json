@@ -83,11 +83,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard Ad Blocker for Safari",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-14",
+      "last_modify": "2026-09-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/8a/b4/728ab44a-1403-1a58-64f0-cbf48c649213/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "fZRiD1zt": {
@@ -169,7 +169,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/11/b0/9611b017-a6bd-7c04-1b32-c4436ef1ce58/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/ad/81/83ad81a2-650c-aab7-73a0-47d1d90080da/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "E7U0UsBs": {
       "app_name": "AirPlay 便捷切换工具",
@@ -1293,7 +1293,7 @@
         "ios"
       ],
       "last_modify": "2026-02-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ed/6c/dded6c8e-2945-d358-f3b8-55d43f678c98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/3a/68/513a68e0-8411-32ad-3d7e-e388063caeb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -1360,11 +1360,11 @@
     },
     "lCeTuDKM": {
       "app_name": "Element Classic",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22",
+      "last_modify": "2026-09-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/56/07/a7560741-1512-56d8-bd2c-2d91d322d4c3/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/120x120bb-80.png"
     },
     "uZbeZCOi": {
@@ -1420,7 +1420,7 @@
         "ios"
       ],
       "last_modify": "2026-04-23",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/89/2a/b3892ac1-67a3-db92-701e-960bb7249aee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/29/47/452947ba-aace-c0cc-b8de-0c395e45de7d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "t6xnU9H3": {
       "app_name": "Erasee: Background Remover",
@@ -1447,7 +1447,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/29/ae/bf29aea9-1541-516b-360e-1e7d9a9636d8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/30/73/28307304-fea6-7186-af6d-14a839dfbb06/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
@@ -1834,7 +1834,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/1f/aa/4a1faa11-899d-c25f-366c-142bbb1f9af6/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/17/d0/5317d030-ab8a-3fe6-33f5-469804852c06/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
     },
     "kzVJhIg1": {
       "app_name": "FRITZ!App Smart Home",
@@ -2647,11 +2647,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-11",
+      "last_modify": "2026-09-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c5/bb/5cc5bb90-45f8-7ace-851f-7ca1268daa44/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "VnGZhjsZ": {
@@ -3499,7 +3499,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/02/d5/bd02d54d-67fa-e5c5-551f-9d9977e321cc/AppIconProd-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/56/f4/3f56f4aa-325e-fd83-7fd8-5ebfabb25ffe/AppIconProd-0-0-1x_U007ephone-0-1-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -4788,7 +4788,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/34/0a/e9340ac1-acf9-939b-f220-b4d99ab8297c/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/7f/53/147f531e-293a-8ef1-f57c-dde62f5a2716/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "tCeANbZi": {
       "app_name": "Sleep Cycle - Tracker & Sounds",
@@ -4806,7 +4806,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/b2/ea0cb2ad-94ec-a514-eb0a-672440301252/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/bf/35/5ebf3545-4e88-c830-2240-df2b178636da/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -4969,7 +4969,7 @@
         "ios"
       ],
       "last_modify": "2026-08-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/a5/b1/e8a5b1d0-aed8-9fcd-7461-e76417676b16/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/cc/2f/26cc2f30-2853-eaa0-d51f-00f416ec1a6e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/120x120bb-80.png"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
@@ -5314,7 +5314,7 @@
         "ios"
       ],
       "last_modify": "2026-09-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/09/194009b5-8980-2ead-a280-fe0d5d045536/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/10/ff/5710ff7a-d1be-1185-91d5-0687d66f0dd5/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -5732,7 +5732,7 @@
     },
     "Cg7UTrme": {
       "app_name": "UTM Virtual Machines",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "macos"
       ],
@@ -5949,7 +5949,7 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl.",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6412,7 +6412,7 @@
         "ios"
       ],
       "last_modify": "2026-04-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/43/57/c94357fb-e0b5-2b6d-899f-f0c46636cb93/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a4/d9/e3a4d98f-9449-1197-14e4-9ad30491ce36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6473,7 +6473,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/5b/28/cd5b2807-726a-fb0a-32a3-b87911ef7b48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/a1/46/aea146e1-f3dd-8e12-497e-ddc62a586f6a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "qMCQlMiZ": {
       "app_name": "熊猫吃短信",
@@ -6554,7 +6554,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5a/db/295adbfe-7d95-2a93-4691-2d2d312c2593/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0c/01/080c01c2-9c4c-2319-6c3b-f74bffb2e23d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/120x120bb-80.png"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6608,7 +6608,7 @@
         "ios"
       ],
       "last_modify": "2026-09-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/3f/e1/8a3fe1de-b304-5d0d-3b34-f2e14df41b91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f4/11/29f411f3-c193-0758-c5bf-5931484d5954/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
       "app_name": "网易云音乐 HD",
@@ -6675,11 +6675,11 @@
     },
     "w5En3SPV": {
       "app_name": "豆瓣",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-18",
+      "last_modify": "2026-09-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/08/93/0208933f-babb-ceb2-b66a-0cdb9c0ccb11/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/120x120bb-80.png"
     },
     "Bh2Bo9ab": {
@@ -6733,7 +6733,7 @@
         "ios"
       ],
       "last_modify": "2026-01-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/4b/c9/404bc9db-be80-94c7-2ca9-16fa99a517f5/AppIconGlass-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/1c/ad/c21cadcc-9b11-38ec-5208-b09c75f30c6f/AppIconGlass-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "6cnKUyZ8": {
       "app_name": "酷狗音乐 - 就是歌多",
@@ -6869,7 +6869,7 @@
         "ios"
       ],
       "last_modify": "2026-09-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/aa/a4/21aaa48f-cf05-c951-77cd-6019d64d6ca9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/dd/2f/c1dd2f1e-a7ee-5ccc-00a7-bb6d62925ad9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6878,7 +6878,7 @@
         "ios"
       ],
       "last_modify": "2026-09-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/66/d1/bb66d1c9-e664-2e8e-9319-545c88709008/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/02/a0/ab02a022-e769-53f9-c48e-b6d020dd7d34/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "AzU6kAzX": {
       "app_name": "Egern",
@@ -7149,7 +7149,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5a/16/565a168f-f703-2a64-b016-bbaafc5c47a9/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/99/91f7992c-64ef-48a6-af30-12d5bfe3c2a5/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7194,7 +7194,7 @@
         "ios"
       ],
       "last_modify": "2026-09-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/9e/8d/1d9e8dd5-cdbe-7cc0-fa24-c7bf3d1dbb41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/75/12/f275120e-ae3a-4aaa-f164-0e47d9f7d9ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "4qfWwXvP": {
       "app_name": "Pockity: Daily Expense Tracker",
@@ -7267,7 +7267,7 @@
         "ios"
       ],
       "last_modify": "2026-09-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/db/f7/d1dbf770-4be1-ab65-aeaa-b4294cf86bfe/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/23/21/a3232142-484f-d6ea-7ccc-d29cb5d8799b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7322,7 +7322,7 @@
         "ios"
       ],
       "last_modify": "2026-09-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/eb/01/6deb0143-d555-02d7-49f0-aa30be596776/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/17/8d/fd178d25-5ba5-a46e-247d-fa8fc1fc6730/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7362,11 +7362,11 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-20",
+      "last_modify": "2026-09-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/cc/2f/99cc2feb-8b64-f69e-1c76-32fd85e3106d/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/120x120bb-80.png"
     },
     "406CXlN8": {
@@ -7385,7 +7385,7 @@
         "ios"
       ],
       "last_modify": "2026-08-11",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/80/99/ed80992a-120a-778d-0c18-0dca7da8e1e3/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/b9/a7/a8b9a737-c33e-6b55-acb8-2c66302968de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "TX83Mn7J": {
       "app_name": "知乎",
@@ -7421,7 +7421,7 @@
         "ios"
       ],
       "last_modify": "2026-07-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/df/33/82df3359-6589-0ab0-bd2a-7bfbf0e1a1bb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/a7/1c/03a71c21-765d-59dd-cae1-41bebd40d908/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
@@ -7439,7 +7439,7 @@
         "ios"
       ],
       "last_modify": "2026-09-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/79/8b/21798bb3-406e-f3b6-df33-c83a3540d517/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/83/0ca9835c-2f27-f21a-da0c-832da90007e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     }
   }
 }
