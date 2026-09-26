@@ -679,7 +679,7 @@
         "ios"
       ],
       "last_modify": "2026-09-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/79/c0/8579c06b-4628-8bc7-946b-d3968026dbf4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/01/aa/1c01aa9a-3e4f-38e7-a525-3b187ad99d1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
       "app_name": "Cards-Business Card Scanner",
@@ -4052,7 +4052,7 @@
         "ios"
       ],
       "last_modify": "2026-09-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/56/73/3a5673fa-e4e6-05ef-9589-6e655f603b13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b2/27/50b22771-ad76-c8ff-ee8e-714594c47a61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "uNlhFG0m": {
       "app_name": "PPSSPP - PSP emulator",
@@ -4241,7 +4241,7 @@
         "ios"
       ],
       "last_modify": "2026-08-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/0f/3b/df0f3b1f-a78f-7afe-6e4f-02a677bfc505/RainViewerAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/b6/be/e8b6be16-cca4-61ae-7e66-d9fdcc15a055/RainViewerAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "T9AgTf4F": {
       "app_name": "RAPGOD.ai",
@@ -5949,7 +5949,7 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl.",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6891,12 +6891,12 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
       "last_modify": "2026-09-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/e1/b0/8ae1b05d-ad18-f7f2-0ed4-be6114904ae4/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/8a/5d/398a5d2a-3717-5970-b74d-8d843bb9992d/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6999,11 +6999,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-25",
+      "last_modify": "2026-09-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f9/50/91f950d5-11e4-6757-fb94-a6e4b58308f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -7397,7 +7397,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/ab/ed/34abed28-950f-9575-f4d6-a3d3b7e53878/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
-      "app_name": "腾讯视频HD-《兰香如故》独播",
+      "app_name": "腾讯视频HD-《现在就出发4》独播",
       "status": "F",
       "tables": [
         "ios"
