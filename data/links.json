@@ -1448,7 +1448,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/ea/6e/f0ea6e05-8444-7c3d-f335-133e21d71b5a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/c6/24/c2c6245b-6aba-b4a9-05fe-107e7d8670d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "NRswe1IZ": {
       "app_name": "F1ATV",
@@ -1506,11 +1506,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-03",
+      "last_modify": "2026-10-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/10/d9/f710d937-5762-b75e-4dd2-c3b6e9ef59f7/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "b6GatWTY": {
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/28/90/a828905c-c953-eba4-5101-92013eb542ab/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/5b/87/175b8799-4c51-bff6-9280-0fa905de22ed/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -3000,7 +3000,7 @@
         "ios"
       ],
       "last_modify": "2026-06-05",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/1d/10/3b1d10b6-94b3-7bac-2199-3325feb44ea0/Zenitzer_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/e9/a3/a7e9a3c7-9614-97b7-df26-8b49b5b0f8fb/Zenitzer_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "4x1P5Tnx": {
       "app_name": "MEGA: Encrypted Cloud Storage",
@@ -3156,11 +3156,11 @@
     },
     "TgcHSGwb": {
       "app_name": "MiniBili",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
+      "last_modify": "2026-10-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/04/84c20492-8e1a-8e26-f944-f6d21614c431/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
@@ -4970,7 +4970,7 @@
         "ios"
       ],
       "last_modify": "2026-08-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/b6/06b8b68b-ba84-2fda-a642-0234e2a20051/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/bf/8f/f6bf8ff7-3b20-b519-9553-0ceb85e39776/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/120x120bb-80.png"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
@@ -6793,7 +6793,7 @@
     },
     "fzDLkIVK": {
       "app_name": "1Password: Password Manager",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7000,7 +7000,7 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7009,11 +7009,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Copilot",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02",
+      "last_modify": "2026-10-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/27/22/522722d4-f917-5854-c5b3-680e3c230751/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "LtgPLzrQ": {
@@ -7100,11 +7100,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-03",
+      "last_modify": "2026-10-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/87/b8/0887b870-b2c0-c816-f06f-334fdd3317c6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/120x120bb-80.png"
     },
     "uaazZoIc": {
@@ -7150,7 +7150,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/57/16/cf571618-062c-5241-2676-072b9959ee37/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/9e/5a/fe9e5a2a-8fa3-e76a-54d7-3e7ac8022f2f/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7190,11 +7190,11 @@
     },
     "MY6JTzix": {
       "app_name": "Plex: Find Movies and TV Shows",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-03",
+      "last_modify": "2026-10-04",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e2/d5/dee2d51d-74a6-1be2-ca66-5a051b0690ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "4qfWwXvP": {
@@ -7309,12 +7309,12 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/d9/4c/d8d94c1c-4524-0ed2-7ee5-f808c1ead6d9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-10-04",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/3f/0f/ba3f0f53-4d81-649d-f8b3-30db65090b66/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pLmKZJKw": {
       "app_name": "TikTok - Videos, Shop & LIVE",
