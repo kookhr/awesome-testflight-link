@@ -675,11 +675,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot: Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09",
+      "last_modify": "2026-10-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/85/a2/ff85a2f0-15a8-ef45-7aa4-6c4798be2833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
@@ -769,7 +769,7 @@
         "ios"
       ],
       "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/db/df/35dbdfb7-7d0e-95b4-e565-02b198f59dc3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/4a/b6/c54ab60d-03bc-6a4a-786a-d32c037137c6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "0pHRZcVD": {
       "app_name": "ChastiKey",
@@ -1457,7 +1457,7 @@
         "ios"
       ],
       "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/bb/3e/24bb3e77-ea81-38a1-6ca1-9ebd283120a5/App_Icon-marketing.lsr/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/0e/7e/f40e7e2e-d597-1326-c918-e826981b5fd0/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1475,7 +1475,7 @@
         "ios"
       ],
       "last_modify": "2026-10-06",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/48/bf/fa48bf86-bd0c-0789-4ffa-6ecdb5d112ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/e9/79/a4e9799d-e178-656f-11a7-0ecc4ce5fac1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1506,11 +1506,11 @@
     },
     "xsSlT2sX": {
       "app_name": "FE File Explorer",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10",
+      "last_modify": "2026-10-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/10/d9/f710d937-5762-b75e-4dd2-c3b6e9ef59f7/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "b6GatWTY": {
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/85/8a/0c858a38-16a4-4f66-323f-3561d1e8ba80/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/fc/80/20fc8035-4cc2-cae5-7d85-95575408ec52/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -1932,7 +1932,7 @@
         "ios"
       ],
       "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/89/74/6b89743d-a700-9b9b-3563-483d6b9325c0/green-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/b4/32/0ab432d4-7e3e-4911-7ee5-2200aebced41/green-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "QIVXLkkn": {
       "app_name": "GitHawk for GitHub",
@@ -2024,11 +2024,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery - Smart Shopping List",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-09",
+      "last_modify": "2026-10-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/bb/c7/c1bbc782-dc37-2644-5c63-74d8c5610c4c/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220-0.png/120x120bb-80.png"
     },
     "5k0dF9zs": {
@@ -3162,7 +3162,7 @@
         "ios"
       ],
       "last_modify": "2026-10-04",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/5a/d0/e45ad0f6-6334-e3de-117d-0bcb40acc9f9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/02/24/1f0224ee-fe09-3400-254b-d1b83805a1b6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -3951,13 +3951,13 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/56/d2/d656d2f6-dd87-db09-5862-98b204962619/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "fQQrtZMS": {
-      "app_name": "Pigeon",
-      "status": "N",
+      "app_name": "Pigeon - SNS Client",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/04/21/700421dd-e834-d93c-5bca-4ad5fde95466/AppIcon-1x_U007emarketing-0-3-85-220-0.png/120x120bb-80.png"
+      "last_modify": "2026-10-11",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/5c/b1/905cb100-c424-e535-c03c-261c96cc73fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "qqTPmvCd": {
       "app_name": "PixelHQ",
@@ -4421,7 +4421,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/16/21/de162106-5c9b-9893-3aa0-7784ffdd3d6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/1c/c0/a41cc057-456a-edd2-3e71-d2badaaecdb3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "ORz3QWRv": {
       "app_name": "RocketSim for Xcode Simulator",
@@ -6529,7 +6529,7 @@
         "ios"
       ],
       "last_modify": "2026-04-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/36/f14436df-2185-1082-065c-6571c53a806c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/9f/de/269fdea0-5470-1df4-b3fe-7e61da87325c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "A0HM2av9": {
       "app_name": "百度网盘 HD",
@@ -6871,7 +6871,7 @@
         "ios"
       ],
       "last_modify": "2026-10-09",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f7/9f/dff79fe8-d34e-691f-b94d-507fccf25431/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/ac/71/1aac7187-17c8-aa9b-e2b3-738eabe70af7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Language Lessons",
@@ -6898,7 +6898,7 @@
         "ios"
       ],
       "last_modify": "2026-10-06",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/6f/52/026f52f7-8e99-5d3d-0b85-4f06d1705c0b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/6a/bc/866abcd1-c434-713a-b365-9137e6c347c5/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7101,11 +7101,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-10",
+      "last_modify": "2026-10-11",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/87/b8/0887b870-b2c0-c816-f06f-334fdd3317c6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/120x120bb-80.png"
     },
     "uaazZoIc": {
@@ -7260,7 +7260,7 @@
         "ios"
       ],
       "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e6/5a/2be65ab0-88c2-4e6a-ff4a-8e65db1cafd4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/f1/59/a3f15926-6165-275c-553f-50cc68153c0f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7279,7 +7279,7 @@
         "tvos"
       ],
       "last_modify": "2026-10-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c2/1a/bac21ae4-70ee-9ab7-0034-d9c9a5f9402f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/bf/f4/fabff480-f4b7-42e4-36cb-10be9da21a64/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8BOPXsGz": {
       "app_name": "Steam Mobile",
