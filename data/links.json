@@ -675,11 +675,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot: Heart Rate Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/34/ce/7334ce3a-ef3d-c6af-88f8-df257396fc8b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
@@ -751,7 +751,7 @@
         "ios"
       ],
       "last_modify": "2026-04-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/3a/1a/a23a1a1b-8ef2-811b-1356-ed4a1ca5f0ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/c6/5d/b3c65de1-0771-1138-9841-cbc8aae5b1bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "CO4pDu2I": {
       "app_name": "ChargeDesk",
@@ -791,11 +791,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet: Sticky Note Widget",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-12",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/c5/8f/bcc58f80-ef3d-4557-6242-64dda19fac4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "K120Muoy": {
@@ -1442,7 +1442,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/2d/07/732d07d1-9df4-23fd-88f1-474328236a48/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/120x120bb-80.png"
     },
     "sOCDYE65": {
-      "app_name": "Everlog: Daily Journal",
+      "app_name": "Everlog: Daily Journal & Diary",
       "status": "Y",
       "tables": [
         "ios"
@@ -1470,11 +1470,11 @@
     },
     "njVWbUm0": {
       "app_name": "Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a0/d7/07a0d72a-e14a-3c66-b685-775700f3fbb3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
@@ -2015,11 +2015,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/9a/0f/429a0f52-d4d3-490d-8204-bdb619f683ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "v29eXz9t": {
@@ -2237,7 +2237,7 @@
         "ipados"
       ],
       "last_modify": "2026-10-09",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c2/b6/c1c2b615-bddc-aaab-c389-3c59ff7072e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/43/9c/f4439c3c-e4bd-1817-5b06-61671afa03f2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "Abrd4mE4": {
       "app_name": "Highlights - Export PDF Notes",
@@ -3531,7 +3531,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d2/c1/e9d2c105-e7a0-c39a-2435-5ccae3d2bb7c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "v3SGNpM5": {
-      "app_name": "Nubank: Conta, Cartão e mais",
+      "app_name": "Nu: Haz más con tu dinero",
       "status": "Y",
       "tables": [
         "ios"
@@ -3957,7 +3957,7 @@
         "ios"
       ],
       "last_modify": "2026-10-11",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/1d/54/171d54f4-88c7-d43f-78bc-8e4326104fe1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/d8/56/e2d8565e-6a5a-010c-e176-f7d675a71c99/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "qqTPmvCd": {
       "app_name": "PixelHQ",
@@ -4037,7 +4037,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ce/25/8fce2511-8a9d-dc48-4cf7-f0adbfc982bf/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e5/a9/ace5a9a2-7ecb-4c20-df82-2f3c6ecdf266/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
@@ -6803,11 +6803,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-10-17",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/dd/0a/badd0a13-98e3-2cd6-7a7e-90c3c408b3e1/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6871,7 +6871,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/3e/02/0d3e026f-9991-c63f-3e83-a5f491f4c5b6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/8c/71/f38c7107-5744-2880-bd1f-8da59ef1f3c1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Learn Languages",
@@ -6893,12 +6893,12 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/4c/10/7e4c102c-832b-3e77-6eee-56b9908b3423/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-10-18",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/eb/da/b5ebdaf4-f43c-9d9e-0621-138368e330fb/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7260,7 +7260,7 @@
         "ios"
       ],
       "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/f7/6d/0bf76d12-e0bd-c3b0-c712-641aa6eb705f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/df/4f/c6df4f00-ea6e-57fd-3f7e-89b49794051a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
@@ -7337,11 +7337,11 @@
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/bb/c6/4cbbc681-ea55-7021-052e-31ab646603fb/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "dfUeaFHS": {
@@ -7373,12 +7373,12 @@
     },
     "406CXlN8": {
       "app_name": "微信输入法",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e7/19/1de719fd-ba18-8a09-aa1a-128216441c38/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-10-18",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/01/9d/92019d87-bf80-7920-71c5-8a1eb079e6fe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧-聊兴趣，上贴吧",
