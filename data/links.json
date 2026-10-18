@@ -195,7 +195,7 @@
         "ios"
       ],
       "last_modify": "2026-10-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/b7/21/5eb721d9-c6ca-83f7-bf9f-8f521cc8fd9c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/01/04/a3010400-f242-3de8-5a96-f4c224c1578b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "4Jc5hX2s": {
       "app_name": "all 4 hue (for Philips Hue)",
@@ -791,7 +791,7 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet: Sticky Note Widget",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -1248,7 +1248,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/73/c1/a773c191-baba-da76-9de4-348f9214fbe1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/e8/92/7ce8927a-f0a8-2b8e-3891-537aa39e3f10/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/120x120bb-80.png"
     },
     "OOrSaq4J": {
       "app_name": "Dog Scanner",
@@ -1294,7 +1294,7 @@
         "ios"
       ],
       "last_modify": "2026-02-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/91/a8/2191a817-f951-2b24-a884-4fd411cbfa0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/f9/02/27f9028d-987a-356a-80d8-03f95bf74652/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/3c/95/083c951e-678f-7488-09d8-0b0f55069e5d/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/a3/e6/1ca3e638-dbbb-7da2-3975-604dae64bd70/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2992,7 +2992,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d0/0b/8bd00b34-17d3-48cd-69dc-b8ede65f1759/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d0/b1/8ed0b1c0-31b1-62d8-c01e-ec692c25457e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "QvKyRJ8x": {
       "app_name": "Meditation Timer - Zenitizer",
@@ -3501,7 +3501,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/df/12/3adf12b2-58c8-8cc4-9c3b-7cd4a05110c3/AppIconProd-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/de/6c/5ade6c8f-f7ec-b819-71a7-eca13035724d/AppIconProd-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -3531,7 +3531,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d2/c1/e9d2c105-e7a0-c39a-2435-5ccae3d2bb7c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "v3SGNpM5": {
-      "app_name": "Nu: Haz más con tu dinero",
+      "app_name": "Nubank: Conta, Cartão e mais",
       "status": "Y",
       "tables": [
         "ios"
@@ -4058,12 +4058,12 @@
     },
     "uNlhFG0m": {
       "app_name": "PPSSPP - PSP emulator",
-      "status": "N",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/97/73/6c9773c6-de03-3ec8-a646-6e74f5563a05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-10-18",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/69/ae/2269ae43-45ca-d854-5197-3e77d830948f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "ZYsBYMhT": {
       "app_name": "Pricing Manager",
@@ -4971,7 +4971,7 @@
         "ios"
       ],
       "last_modify": "2026-08-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b5/c8/edb5c8be-4c49-e2d7-9ceb-6be151418ea4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/f8/3c/4ef83cd9-7837-937c-bf5e-fc790614c7c2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/120x120bb-80.png"
     },
     "hgN6jGHY": {
       "app_name": "Spendy",
@@ -5271,7 +5271,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/0f/cf/9c0fcf90-1765-9c14-895b-4c8bb3c75b3d/Release-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/70/8f/75708fa5-c0c0-3e62-2302-324415468842/Release-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "9i9YT2LU": {
       "app_name": "The Real Estate Answers App",
@@ -5311,11 +5311,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-14",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/94/e6/f094e60f-bfa0-aea7-8e18-b189c686e1ed/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
@@ -5951,11 +5951,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl.",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-16",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/04/33/e1043358-7b0e-cef2-50c2-3067f20648c4/WeiboAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "jtBRluFe": {
@@ -6601,7 +6601,7 @@
         "tvos"
       ],
       "last_modify": "2026-01-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/9b/92/829b9220-c0d2-673a-84ec-5d9b1c43083b/App_Icon_-_Small-marketing.lsr/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/15/b2/4c15b268-9a42-7313-f565-2d72c0209732/App_Icon_-_Small-marketing.lsr/120x120bb-80.png"
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
@@ -6893,7 +6893,7 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6911,11 +6911,11 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App Wi-Fi",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-15",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/26/71/6b267154-6e21-8aa1-bf2b-032d79e8d8d0/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/120x120bb-80.png"
     },
     "LPQmtkUs": {
@@ -7024,7 +7024,7 @@
         "ios"
       ],
       "last_modify": "2026-10-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/36/c4/0436c466-fa97-5f72-29f1-d78518681d1f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9f/75/d29f752f-f418-cbc3-6fdc-1002e6f2706c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
@@ -7151,7 +7151,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ff/e9/ddffe905-1576-d350-25ca-bfc911ca45c1/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/92/03/259203c4-9c3e-b5cc-f94c-9a5920d9074a/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7173,11 +7173,11 @@
     },
     "aaSgUXmq": {
       "app_name": "Pedal – Ride into the future.",
-      "status": "F",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-01",
+      "last_modify": "2026-10-18",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/a7/40/d6a7405d-0ea8-7343-52d3-7ccd485406bc/ComposedAppIcon-0-0-1x_U007ephone-0-0-0-1-0-P3-85-220.png/120x120bb-80.png"
     },
     "ffIBkq35": {
@@ -7337,7 +7337,7 @@
     },
     "oscYikr0": {
       "app_name": "WhatsApp Business",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7396,7 +7396,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2f/30/6e2f307c-ab44-14fa-5ba9-894e82a9f98b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/c6/88/a8c68868-2cde-3d5a-3a2b-647c5126c9a0/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《现在就出发4》独播",
