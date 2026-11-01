@@ -675,12 +675,12 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot: Heart Rate Monitor",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/7d/d1/d07dd1ac-e9eb-a1af-e042-4dfa4f112208/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-11-01",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/c1/6f/8bc16f3d-d58e-a88f-0376-7ffa293a0a69/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
       "app_name": "Cards-Business Card Scanner",
@@ -751,7 +751,7 @@
         "ios"
       ],
       "last_modify": "2026-04-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a5/79/52a5799e-232b-68a6-2a1e-f69f28b789f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/74/3b/34743bc4-cc8e-fa79-046c-efe9e09ca71b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "CO4pDu2I": {
       "app_name": "ChargeDesk",
@@ -6889,7 +6889,7 @@
         "ios"
       ],
       "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/07/82/e00782ec-8d89-2665-62ca-48006751516b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/6c/03/2c6c03cc-6783-01c5-ca68-d9c9e998c9a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
@@ -6911,7 +6911,7 @@
     },
     "vbfCKamq": {
       "app_name": "FRITZ!App Wi-Fi",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7001,11 +7001,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-29",
+      "last_modify": "2026-11-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/8d/b8/ff8db850-5843-3e3d-bc0e-6ecb468e8661/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -7160,7 +7160,7 @@
         "ios"
       ],
       "last_modify": "2026-10-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/48/be/9b48bea1-1de6-e73f-0bb5-ca21f0e587ca/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6d/fc/0f6dfc4d-1ae1-78d1-7389-15d24d37ebdd/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "37azzGPG": {
       "app_name": "Overcast Podcast App",
@@ -7255,11 +7255,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-23",
+      "last_modify": "2026-11-01",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/5c/fa/cc5cfa86-3dd6-dffc-70b9-29b934e490af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
