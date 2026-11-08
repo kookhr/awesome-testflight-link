@@ -791,11 +791,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet: Sticky Note Widget",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-05",
+      "last_modify": "2026-11-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/66/8c/18668c5c-1241-a780-2897-037d3bcf55fa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "K120Muoy": {
@@ -1457,7 +1457,7 @@
         "ios"
       ],
       "last_modify": "2026-10-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/da/a8/5cdaa8a4-0962-8ead-a886-1eb3c246ec92/App_Icon-marketing.lsr/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6a/06/da6a06cd-776c-1b8f-9d48-a7a736df0a9a/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1475,7 +1475,7 @@
         "ios"
       ],
       "last_modify": "2026-10-27",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/a3/b8/7fa3b8a6-62f4-4f7a-a144-3d5fa351e426/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/cf/8b/36cf8b02-2bea-bb2c-acc2-1826eb1cd210/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -2294,13 +2294,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-09-09",
+      "last_modify": "2026-11-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/44/db/f044dba2-e08e-3233-65a7-62fe88c59d24/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
@@ -2649,7 +2649,7 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -4799,7 +4799,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5f/2e/7a5f2eb8-3983-9abc-5b5d-ef24aa34bb9d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7f/67/237f670d-1930-b5de-94cd-3fa69a2cc443/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle - Tracker & Sounds",
@@ -4808,7 +4808,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5f/2e/7a5f2eb8-3983-9abc-5b5d-ef24aa34bb9d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/89/77/5f8977c1-d712-9747-8725-e29518de7d5f/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -5050,7 +5050,7 @@
         "ios"
       ],
       "last_modify": "2026-11-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/05/ab/8f05abb1-589f-310b-2fda-dcc7bb0fbef5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/69/c2/7069c2bb-5994-8f00-59b6-2e4c67f8e9c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "3uIaRydA": {
       "app_name": "Stats Tracker for PUBG",
@@ -5952,7 +5952,7 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl.",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6124,11 +6124,11 @@
     },
     "8oUnDzMQ": {
       "app_name": "XBOX Family Settings",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06",
+      "last_modify": "2026-11-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ce/20/a9ce20b6-cea0-95ff-4584-e4fd70a63e43/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/120x120bb-80.png"
     },
     "wytcNylk": {
@@ -6606,11 +6606,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-06",
+      "last_modify": "2026-11-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ad/fc/72adfcd5-c32e-b083-10a7-d69cbe62da57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
@@ -7002,11 +7002,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07",
+      "last_modify": "2026-11-08",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/8d/b8/ff8db850-5843-3e3d-bc0e-6ecb468e8661/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -7020,7 +7020,7 @@
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7102,7 +7102,7 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7183,7 +7183,7 @@
     },
     "ffIBkq35": {
       "app_name": "Pinterest",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7311,7 +7311,7 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
