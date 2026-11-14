@@ -675,11 +675,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot: Heart Rate Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13",
+      "last_modify": "2026-11-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/dc/1c/f5dc1cad-c0e3-a7ef-e73c-5736fec24dd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "iuqvxbc1": {
@@ -1294,7 +1294,7 @@
         "ios"
       ],
       "last_modify": "2026-02-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ad/59/6ead595f-66a2-d990-406f-1a2b0fa254ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/39/d0/8339d0fc-6fec-cffd-6471-afa14af9cc56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -2024,11 +2024,11 @@
     },
     "v29eXz9t": {
       "app_name": "Grocery - Smart Shopping List",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-07",
+      "last_modify": "2026-11-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/92/c0/3192c0cd-b503-4f71-35ea-758bfcb4e05d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/120x120bb-80.png"
     },
     "5k0dF9zs": {
@@ -2526,7 +2526,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/49/76/f0497669-ddfa-88a1-b2ab-0ca68ea1f011/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f4/27/96f427b0-e455-f6a3-28d2-5308072e0007/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "6JbjYbSY": {
       "app_name": "Jira Data Center",
@@ -3345,11 +3345,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-27",
+      "last_modify": "2026-11-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/a0/ad/43a0add1-c58b-25d4-1a36-8d39c4d7cbd0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "9qB4yqkL": {
@@ -4037,7 +4037,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/38/15/9c3815dc-8b66-9a99-1d1c-a6a8e19c0ab0/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d6/6d/26d66d82-59a2-2b4e-f674-b05a716d62af/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
@@ -6254,7 +6254,7 @@
         "tvos"
       ],
       "last_modify": "2026-01-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/6c/8f/076c8f79-b8c4-ab85-6eb9-5edd4dccf745/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/06/ff/7106ffcf-1396-1cbb-8d4d-31a59a572af2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "6Ya9E8jU": {
       "app_name": "Zombies Endless",
@@ -6971,7 +6971,7 @@
         "ios"
       ],
       "last_modify": "2026-11-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/55/e4/2b55e401-cdec-31ea-4ece-2f2ba46bf77a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/f3/19/25f319f3-3f4f-003d-fe00-d5d19ae46da9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7002,11 +7002,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12",
+      "last_modify": "2026-11-14",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/c9/00/56c900c0-46df-b006-b662-2507a98f43c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -7016,7 +7016,7 @@
         "ios"
       ],
       "last_modify": "2026-11-13",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/23/1f/50231f69-beb5-ea54-064a-124488ac62df/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/43/aa/1043aa10-2977-d624-e3a9-d8117424f98e/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -7252,7 +7252,7 @@
         "ios"
       ],
       "last_modify": "2026-11-12",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ef/e4/4aefe4bd-78b7-6a93-5104-da50cfd6b9d1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/ee/0f31eef3-89ca-4e5b-3d75-98a439189c16/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
