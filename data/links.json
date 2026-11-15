@@ -1343,11 +1343,11 @@
     },
     "SmfNOeJ2": {
       "app_name": "Eastwatch - TV Show Tracker",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/d9/ba/27d9ba6d-79e8-c3a6-3085-db7fac6cd44c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
     },
     "ew2SUX7n": {
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/92/cc/d592ccf1-2194-860a-6e9b-da7a5ec9fe5f/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/4a/79/384a7910-c103-1ac7-ec82-4195700c5307/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2015,11 +2015,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a4/68/35a46848-d644-7bdf-f286-21dd19426b20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "v29eXz9t": {
@@ -2231,12 +2231,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy & VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-10-31",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9f/fc/5c9ffce0-25df-fa84-6b82-59ab0a568b23/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "Abrd4mE4": {
@@ -3162,7 +3162,7 @@
         "ios"
       ],
       "last_modify": "2026-11-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b2/34/d6b2342e-d0c8-5285-9155-faf0740f106f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/40/20/d94020a2-7794-ea0d-efe0-85eaf24a6cfc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -4799,7 +4799,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/0a/e4/720ae446-ec1a-d7c4-6681-3b98a413bbf3/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ea/d6/6eead62c-9e8e-4e12-331c-ae3a6fbfc290/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle - Tracker & Sounds",
@@ -4808,7 +4808,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/0a/e4/720ae446-ec1a-d7c4-6681-3b98a413bbf3/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ea/d6/6eead62c-9e8e-4e12-331c-ae3a6fbfc290/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -6254,7 +6254,7 @@
         "tvos"
       ],
       "last_modify": "2026-01-30",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/06/ff/7106ffcf-1396-1cbb-8d4d-31a59a572af2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/bc/4a/5ebc4aa9-6d18-a180-a3ca-8b4d16605d63/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "6Ya9E8jU": {
       "app_name": "Zombies Endless",
@@ -6804,11 +6804,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-14",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/dd/0a/badd0a13-98e3-2cd6-7a7e-90c3c408b3e1/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6867,12 +6867,12 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord - Talk, Play, Hang Out",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/aa/c3/60aac319-ce40-bfe4-a772-34de6d93152a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-11-15",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/fa/16/20fa16fd-ad03-bf77-d27e-1512aa73124a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Learn Languages",
@@ -6899,7 +6899,7 @@
         "ios"
       ],
       "last_modify": "2026-11-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/7a/63/3e7a6320-c5d3-d3d5-2f1c-75e190e039fc/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/94/88/9a9488f6-bafc-2e24-f384-66878b13da30/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7079,7 +7079,7 @@
         "ios"
       ],
       "last_modify": "2026-10-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/95/b4/e895b46d-b532-027d-caa7-651310409063/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/f5/00/38f50075-d22b-4390-7f69-3a5f2af0144d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
@@ -7225,7 +7225,7 @@
         "tvos"
       ],
       "last_modify": "2026-10-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/ae/e9/66aee91b-4dd2-64f4-7efa-22e3bfec7546/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/0c/87/2f0c87d7-a365-62a8-ef81-709cacc34b0c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
@@ -7247,11 +7247,11 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-12",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/ee/0f31eef3-89ca-4e5b-3d75-98a439189c16/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "p7hGbZUR": {
@@ -7261,7 +7261,7 @@
         "ios"
       ],
       "last_modify": "2026-11-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/97/18/fc9718ca-9432-96e8-a233-389c9d84e394/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/5a/40/1e5a40b9-41df-3f80-1c26-a1bca93ee515/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "1SyedSId": {
       "app_name": "Spotify: Music and Podcasts",
