@@ -4,16 +4,16 @@
 
 Collect Public Testflight app URL's (iOS/iPadOS/macOS/tvOS).
 
-## 📈 Overview (829 apps total, 166 currently accepting testers)
+## 📈 Overview (829 apps total, 164 currently accepting testers)
 
 
 | Platform | ✅ Available | ⚠️ Full | ❌ Closed | 🗑️ Removed | Total |
 | --- | --- | --- | --- | --- | --- |
-| iOS | 159 | 62 | 575 | 9 | 805 |
+| iOS | 157 | 65 | 574 | 9 | 805 |
 | iPadOS | 7 | 2 | 4 | 0 | 13 |
 | macOS | 6 | 4 | 14 | 1 | 25 |
 | tvOS | 3 | 3 | 1 | 0 | 7 |
-| **Total** | **166** | **66** | **587** | **10** | **829** |
+| **Total** | **164** | **69** | **586** | **10** | **829** |
 
 
 ## 📊 Status Legend

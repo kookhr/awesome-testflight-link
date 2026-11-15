@@ -791,11 +791,11 @@
     },
     "E7AnyPlA": {
       "app_name": "Cheatsheet: Sticky Note Widget",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-11",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/6b/31/516b312c-c800-8719-0152-a40365be8982/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "K120Muoy": {
@@ -2015,7 +2015,7 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -3345,11 +3345,11 @@
     },
     "n5A7ceuK": {
       "app_name": "Möbius Sync",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/a0/ad/43a0add1-c58b-25d4-1a36-8d39c4d7cbd0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "9qB4yqkL": {
@@ -6263,7 +6263,7 @@
         "ios"
       ],
       "last_modify": "2026-10-23",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/85/e0/3485e023-0718-48e9-c8ef-4742fee230f8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/c0/52/cec0521e-5663-c77e-fe3b-7fadcd22fab7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/120x120bb-80.png"
     },
     "0wbi7WuC": {
       "app_name": "中关村在线",
@@ -6867,7 +6867,7 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord - Talk, Play, Hang Out",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -6966,11 +6966,11 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Launch Apps",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-08",
+      "last_modify": "2026-11-15",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/f3/19/25f319f3-3f4f-003d-fe00-d5d19ae46da9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
@@ -7079,7 +7079,7 @@
         "ios"
       ],
       "last_modify": "2026-10-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/f5/00/38f50075-d22b-4390-7f69-3a5f2af0144d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2a/3d/7d2a3de9-c410-8ba5-7a82-f45efebee356/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
@@ -7174,12 +7174,12 @@
     },
     "aaSgUXmq": {
       "app_name": "Pedal – Ride into the future.",
-      "status": "N",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-18",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/a7/40/d6a7405d-0ea8-7343-52d3-7ccd485406bc/ComposedAppIcon-0-0-1x_U007ephone-0-0-0-1-0-P3-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-11-15",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/b3/43/24b34373-9b1d-0f62-bc3e-cc3f64e5d0f0/ComposedAppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ffIBkq35": {
       "app_name": "Pinterest",
@@ -7247,7 +7247,7 @@
     },
     "b9jMyOWt": {
       "app_name": "Reddit",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
