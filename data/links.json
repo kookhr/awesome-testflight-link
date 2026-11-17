@@ -83,20 +83,20 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard Ad Blocker for Safari",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16",
+      "last_modify": "2026-11-17",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/31/2d/4b312d57-cef5-bca1-78c3-2550ff23a8ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "fZRiD1zt": {
       "app_name": "AdGuard VPN: Free Your Privacy",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13",
+      "last_modify": "2026-11-17",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/d4/5e/3dd45ec3-bde1-8844-b582-846d5fa3d2aa/VPN-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "dCGMvyw9": {
@@ -733,7 +733,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/72/3d/22723d8c-ebee-39c1-fda6-3ffe167a75d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/4e/bc/ba4ebcd2-bacc-bdd2-3861-ec51106116aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "6KLsLMFG": {
       "app_name": "Champion of the Fields",
@@ -1375,7 +1375,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/bc/7d/e4bc7d0d-e3bc-e28d-181b-c163a6813a25/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8a/cf/078acf88-c09b-29a3-de5d-8d1603ee6ad7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "mX1G5TQi": {
       "app_name": "Ellie - Daily Planner",
@@ -1799,7 +1799,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/65/dd/d265dd8b-cac3-9072-33c0-7272cfb14b9e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/eb/ed/3debed37-dd2d-45d3-9d90-ac32c0688875/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "DhH5pqmu": {
       "app_name": "Fovea - Pro Image Lab",
@@ -1949,7 +1949,7 @@
         "ios"
       ],
       "last_modify": "2026-09-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/a2/ac/69a2acf1-2b9f-e0af-180f-f4f1aec4ce8a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/24/0b/4b240b85-70d7-6ce8-349d-d10a70ea8463/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "qfPzqQM0": {
       "app_name": "GitHub HyperList",
@@ -2020,7 +2020,7 @@
         "ios"
       ],
       "last_modify": "2026-11-15",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f4/56/a7f4561f-af19-de5e-740c-94297d402055/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b2/e4/e5b2e450-6043-10d0-e202-684bdd2aa36c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "v29eXz9t": {
       "app_name": "Grocery - Smart Shopping List",
@@ -4705,11 +4705,11 @@
     },
     "8FHtd1Jq": {
       "app_name": "Signal - Private Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16",
+      "last_modify": "2026-11-17",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/86/fe/1d86fe68-0591-6940-96ce-53f9c4501a26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/120x120bb-80.png"
     },
     "Zm4lMILC": {
@@ -5165,7 +5165,7 @@
         "ios"
       ],
       "last_modify": "2026-03-07",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2f/c5/a12fc5b0-87a8-420e-02fc-ec262d1e2cc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/34/47/bc344780-947f-80ac-b539-0866a1973c73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "yXfSFBFp": {
       "app_name": "SwiftServer - Monitoring & SSH",
@@ -5317,7 +5317,7 @@
         "ios"
       ],
       "last_modify": "2026-11-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/d1/de/f7d1ded0-2f61-c837-7c38-36e36a8dd079/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/39/7b/d9397b49-7289-f97f-8f14-c7438d757782/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -6921,11 +6921,11 @@
     },
     "LPQmtkUs": {
       "app_name": "Google Chrome",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-14",
+      "last_modify": "2026-11-17",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8a/03/648a0321-c4cc-2622-3db6-8761021953f3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "pm1jk978": {
@@ -7070,7 +7070,7 @@
         "ios"
       ],
       "last_modify": "2026-10-31",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/3d/90/c63d90f9-c704-aa75-4105-3723787b1865/AppIcon-beta-0-0-1x_U007emarketing-0-10-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/03/c0/c903c05b-fa9a-1b8e-ee80-1022c9044059/AppIcon-beta-0-0-1x_U007emarketing-0-10-0-85-220.png/120x120bb-80.png"
     },
     "lsd9mugy": {
       "app_name": "Mixing Station",
@@ -7210,12 +7210,12 @@
     },
     "RKN8upW7": {
       "app_name": "ProgTV",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/14/35/0e1435e1-4faa-df11-49ce-81cfa9e9b59d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-11-17",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/8b/c7/878bc79b-1568-ce8a-4af7-0ac67fc3fce4/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
@@ -7325,7 +7325,7 @@
         "ios"
       ],
       "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/68/fc/9768fc37-879e-bd09-3350-8c56e4388a5e/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/1d/dc/821ddc3d-6ceb-9805-d99f-323b17f08ecd/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7424,7 +7424,7 @@
         "ios"
       ],
       "last_modify": "2026-07-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/78/4e/dd784efd-af5d-c843-fd0d-ee263e1ab99c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9d/28/ea9d28b4-d9b2-f27e-f0a6-c5f5c75daf8b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "rEzEtRf2": {
       "app_name": "香肠派对(先行服)",
