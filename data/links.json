@@ -275,7 +275,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/a0/70/efa070ca-6730-24c2-3bfa-623886db04c4/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/50/b1/f550b10a-6f21-ced4-e6a3-8e7a51bfa88a/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-0-85-220.png/120x120bb-80.png"
     },
     "3WThmhQu": {
       "app_name": "ArcBreaker: Ringfall Arena",
@@ -1294,7 +1294,7 @@
         "ios"
       ],
       "last_modify": "2026-02-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/39/d0/8339d0fc-6fec-cffd-6471-afa14af9cc56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f8/4c/b3f84ca5-4010-ccda-48a6-c36355533091/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "70uu42Cu": {
       "app_name": "Droplets",
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/28/9d/d5289d37-dee1-c5f6-c6af-2381d6afedf7/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b6/da/a9b6da24-af3c-467b-9a6a-c7275e599c05/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2231,12 +2231,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy & VPN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-19",
+      "last_modify": "2026-11-21",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/00/d6/ed00d67c-6415-9b03-b41e-0cb9ab2bfa48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "Abrd4mE4": {
@@ -2294,7 +2294,7 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
@@ -2779,7 +2779,7 @@
         "ios"
       ],
       "last_modify": "2026-07-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f0/55/00f055b6-71a1-0e6b-2ea1-3fe475817308/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/2a/3c/482a3cf6-8a7b-08ff-a91a-414de57b35e7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "k9bRluZc": {
       "app_name": "Letter Letter",
@@ -3501,7 +3501,7 @@
         "ios"
       ],
       "last_modify": "2026-05-08",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/ad/7d/d8ad7d57-a492-d42d-5be9-ff0691968aa6/AppIconProd-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/a8/27/37a82788-01ab-5cc9-353f-b2cdf256bc79/AppIconProd-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "ldBwapIg": {
       "app_name": "NS Travel Planner",
@@ -4799,7 +4799,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/fa/2d/c2fa2d5e-79cb-7d49-cf59-b32dc6d4d0f0/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e3/0c/44e30ca5-feab-6b3d-4917-ce3f5c0ecf4e/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "8RcEFqFF": {
       "app_name": "Sleep Cycle - Tracker & Sounds",
@@ -4808,7 +4808,7 @@
         "ios"
       ],
       "last_modify": "2026-04-17",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/fa/2d/c2fa2d5e-79cb-7d49-cf59-b32dc6d4d0f0/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/e3/0c/44e30ca5-feab-6b3d-4917-ce3f5c0ecf4e/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "M7ChDyZx": {
       "app_name": "Slide for Reddit",
@@ -6476,7 +6476,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/db/24/a0db2493-162e-bcf6-aa87-7ba98fe7a7a8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/2d/9a/102d9a27-48b0-7404-60c5-3e4255057618/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "qMCQlMiZ": {
       "app_name": "熊猫吃短信",
@@ -6966,7 +6966,7 @@
     },
     "clHxFnLa": {
       "app_name": "Lock Launcher - Launch Apps",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7047,7 +7047,7 @@
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey AI Keyboard",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7152,7 +7152,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/d2/e5/55d2e545-b8e7-4aeb-cc11-52b29c9709d3/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/92/55/8f9255e1-d715-df56-ea71-eb09fa261e49/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7365,7 +7365,7 @@
     },
     "5MWjLpYl": {
       "app_name": "微信读书",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7383,7 +7383,7 @@
     },
     "GgBqXAqm": {
       "app_name": "百度贴吧-聊兴趣，上贴吧",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7400,7 +7400,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f1/36/cdf1364d-34e3-fb39-c9b3-c417fe99d560/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
-      "app_name": "腾讯视频HD-《斗破苍穹》动画大结局",
+      "app_name": "腾讯视频HD-《多喜一家人》独播",
       "status": "F",
       "tables": [
         "ios"
