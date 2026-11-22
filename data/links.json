@@ -1475,7 +1475,7 @@
         "ios"
       ],
       "last_modify": "2026-11-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/cc/c2/81ccc2f9-5717-78de-2112-5c1a76c55cc0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/da/7a/9bda7a79-c9c9-f717-0c5f-34e4f3c2f8e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -2015,7 +2015,7 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -2294,7 +2294,7 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados",
@@ -4037,7 +4037,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d6/6d/26d66d82-59a2-2b4e-f674-b05a716d62af/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/65/6f/7d656f64-fb48-741d-c27b-54eba40e3b55/PoAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "hKI4xKRj": {
       "app_name": "Power 9 – Magic: The Gathering",
@@ -5952,11 +5952,11 @@
     },
     "2LslNUOW": {
       "app_name": "Weibo intl.",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/eb/45/d7eb45fe-8f8a-d59d-2ae6-72607a7014a1/WeiboAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "jtBRluFe": {
@@ -6804,7 +6804,7 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "tvos"
       ],
@@ -6899,7 +6899,7 @@
         "ios"
       ],
       "last_modify": "2026-11-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/19/f7/b319f7c5-f7b1-a286-5123-1e418ce7689e/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/88/8a/72888abf-6ff2-e101-1647-f219ac15ec07/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -6971,7 +6971,7 @@
         "ios"
       ],
       "last_modify": "2026-11-21",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/5a/2f/8b5a2fdf-fb33-ca30-c518-a41b24c05f50/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/dd/fd/74ddfdca-3b7f-3004-055a-79dda19b3070/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "Coqmmppd": {
       "app_name": "Microsoft Authenticator",
@@ -7029,7 +7029,7 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -7138,11 +7138,11 @@
     },
     "i4g2QrrG": {
       "app_name": "NOS",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-23",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/8f/66/cd8f6682-c6c8-88ae-4cae-173b5b89ccdd/AppIcon-0-0-1x_U007epad-0-11-0-0-0-85-220.png/120x120bb-80.png"
     },
     "YSo8aVCS": {
@@ -7219,13 +7219,13 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "tvos"
       ],
       "last_modify": "2026-11-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/c3/1a/e6c31a8d-5893-55f3-44cb-be31e42b3908/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/ee/62/22ee6201-4c0c-645c-5b6d-05b498a873c3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
