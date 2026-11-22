@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b6/da/a9b6da24-af3c-467b-9a6a-c7275e599c05/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/de/76/c9de760e-7bd9-2969-4d50-310213fbf29e/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -2015,11 +2015,11 @@
     },
     "eO265vw7": {
       "app_name": "Grindr - Gay Dating & Chat",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/e2/4a/47e24acd-dc03-a444-e6fb-edb927897765/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "v29eXz9t": {
@@ -2231,12 +2231,12 @@
     },
     "dsNjHxjb": {
       "app_name": "Hiddify Proxy & VPN",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-11-21",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/00/d6/ed00d67c-6415-9b03-b41e-0cb9ab2bfa48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "Abrd4mE4": {
@@ -2294,13 +2294,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-11-21",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/44/db/f044dba2-e08e-3233-65a7-62fe88c59d24/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/120x120bb-80.png"
     },
     "XCUga7ko": {
@@ -3162,7 +3162,7 @@
         "ios"
       ],
       "last_modify": "2026-11-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f9/af/1df9afa5-5840-aa3c-7656-80b9e9e421de/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/2d/88/492d88e3-93f8-5261-d2e2-3343e28cb767/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wpAW2GRx": {
       "app_name": "Mixtapes: Music Player",
@@ -4340,7 +4340,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/5a/df/d95adf5e-7577-cd70-2cc0-f93fd90c8818/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/e6/08/26e608ac-bdcc-14c4-794a-8114e0731bed/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "yQNmMRwB": {
       "app_name": "Ride Wait Times",
@@ -5407,7 +5407,7 @@
         "ios"
       ],
       "last_modify": "2026-02-02",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e3/b9/1fe3b992-7953-d3db-4ef3-ba2a7375ad3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/08/64/36086450-f09b-aec8-0b13-a912cf3acf18/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "tv9dt6po": {
       "app_name": "TrackMyTour",
@@ -6745,7 +6745,7 @@
         "ios"
       ],
       "last_modify": "2026-08-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/37/3c/23373cef-5b73-d023-ec49-a6bc43159d5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/b3/3d/f6b33d6d-d700-061b-7413-8c5e7ad96cfe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告 AI 自动记账 & 预算 & 资产管理",
@@ -6804,11 +6804,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-16",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/dd/0a/badd0a13-98e3-2cd6-7a7e-90c3c408b3e1/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6872,7 +6872,7 @@
         "ios"
       ],
       "last_modify": "2026-11-20",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/8f/d0/d18fd0c6-478c-38e4-f5e3-e9cbab5c2b5b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/52/19/85521949-63b8-946e-35cf-35967a2e465e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo: Learn Languages",
@@ -6899,7 +6899,7 @@
         "ios"
       ],
       "last_modify": "2026-11-10",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/7f/38/2a7f38d1-6ba3-50ac-4df4-e9ed0c298977/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/19/f7/b319f7c5-f7b1-a286-5123-1e418ce7689e/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "y4etT8Ht": {
       "app_name": "Portfolio Tracker: Finance Bay",
@@ -7029,11 +7029,11 @@
     },
     "QkU4VS1s": {
       "app_name": "Microsoft Outlook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-13",
+      "last_modify": "2026-11-22",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/e8/03/8ce803e4-13ee-6906-9c1e-3f511d8a4091/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/120x120bb-80.png"
     },
     "a9Ef0N3g": {
@@ -7219,13 +7219,13 @@
     },
     "VCIvwk2g": {
       "app_name": "Quantumult X",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-10-28",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/60/3a/56603ad7-0a81-4aee-3e24-abc1a4199ada/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "last_modify": "2026-11-22",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/c3/1a/e6c31a8d-5893-55f3-44cb-be31e42b3908/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet: More than Flashcards",
