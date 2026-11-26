@@ -566,13 +566,13 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/5f/6b/f35f6b10-0682-44f4-61bc-4a42ab31e8e0/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/120x120bb-80.png"
     },
     "t1xT7SXk": {
-      "app_name": "Bonvo.Ski - 3D Ski & Snowboard",
-      "status": "N",
+      "app_name": "Bonvo Ski: Ski & Snowboard Map",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/55/1e/b3551e11-f04a-03e8-81e1-68d54d5805e7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/120x120bb-80.png"
+      "last_modify": "2026-11-26",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/f5/cd/dcf5cd57-6bf4-d1d6-484d-a9838571c2c8/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/120x120bb-80.png"
     },
     "Wq7G1vFL": {
       "app_name": "Booklover",
@@ -751,7 +751,7 @@
         "ios"
       ],
       "last_modify": "2026-04-19",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/9b/c7/f09bc74d-f3ec-0b24-740e-c6be51ee27f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/02/9f/d3029f71-5891-4db4-c171-d64cefacb031/AppIcon-0-0-1x_U007epad-0-1-85-220.png/120x120bb-80.png"
     },
     "CO4pDu2I": {
       "app_name": "ChargeDesk",
@@ -1261,12 +1261,12 @@
     },
     "81Geh1jh": {
       "app_name": "Downcast",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios",
         "ipados"
       ],
-      "last_modify": "2026-08-28",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/97/93/71979372-adf1-e7dc-1d29-ebcbba0573c9/AppIcon-0-0-1x_U007epad-0-1-0-512MB-85-220.png/120x120bb-80.png"
     },
     "gYn8g7oj": {
@@ -1470,7 +1470,7 @@
     },
     "njVWbUm0": {
       "app_name": "Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
@@ -1520,7 +1520,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/68/04/3d6804a4-f270-6aad-0cb4-a15b79daabcc/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/aa/ee/10aaee2b-1221-1412-3fcb-72a4bb8bec30/fedicat-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "ynrJI46U": {
       "app_name": "Feedbin",
@@ -3510,7 +3510,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/f0/6e/10f06e9e-e0ef-610f-be3d-92f00cc67bcf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/71/05e371e7-9ed3-2562-71b4-aca5e656b317/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "zNLNVYtN": {
       "app_name": "NSScreencast",
@@ -4421,7 +4421,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/f9/6b/41f96b4e-5281-77e5-92d3-fb00a86c5f7c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/a6/e8/a0a6e808-de80-9f2d-22f4-732113117455/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/120x120bb-80.png"
     },
     "ORz3QWRv": {
       "app_name": "RocketSim for Xcode Simulator",
@@ -5317,7 +5317,7 @@
         "ios"
       ],
       "last_modify": "2026-11-25",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/4b/8a/074b8ad1-7183-a1cf-64fa-730762c59ff9/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c6/cd/c1c6cdd4-84b1-d451-1963-d2bdabfc7a7b/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "OTGrzX7C": {
       "app_name": "TikTok Now",
@@ -6003,7 +6003,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/6f/94/c06f946e-6f80-63eb-b07f-b51c3145e2bf/wikipedia-app-icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/38/5c/46385c77-706a-4e07-1695-94af149637c3/wikipedia-app-icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile Beta",
@@ -6415,7 +6415,7 @@
         "ios"
       ],
       "last_modify": "2026-11-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cb/cb/fecbcb22-52d3-3c37-37b5-0ef37a602c4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/ea/1a/80ea1a1f-b154-5049-f44f-c21ca40229f0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/120x120bb-80.png"
     },
     "LeuKqKYX": {
       "app_name": "捷径社区",
@@ -6557,7 +6557,7 @@
         "ios"
       ],
       "last_modify": "2025-12-22",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5c/09/635c094b-e764-58dc-c9e1-cf2952c484b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/d6/89/0fd6898c-5a7b-d896-5a9f-57575c9c49d9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/120x120bb-80.png"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6611,7 +6611,7 @@
         "ios"
       ],
       "last_modify": "2026-11-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/07/1d/57071d19-f526-d9d1-9c90-68e6dfc4467b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cd/d3/fecdd307-246d-9ec2-7023-9e199b0a9a24/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/120x120bb-80.png"
     },
     "G08IwVFs": {
       "app_name": "网易云音乐 HD",
@@ -6804,11 +6804,11 @@
     },
     "2oZuwSHJ": {
       "app_name": "Angel Live - tvOS",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "tvos"
       ],
-      "last_modify": "2026-11-24",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/c4/58/c7c4585c-189a-c011-710c-1cf07ea9f1ab/App_Icon-marketing.lsr/120x120bb-80.png"
     },
     "8uVQrfHu": {
@@ -6827,7 +6827,7 @@
         "macos"
       ],
       "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6f/e6/d86fe61e-6b82-477e-75e1-bb0b570bd4a0/AppIcon-0-0-85-220-0-0-5-0-2x.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/9a/e7/bb9ae732-eeef-e532-3ff0-6d27db1fcdbc/AppIcon-0-0-85-220-0-0-5-0-2x.png/120x120bb-80.png"
     },
     "epg3cusH": {
       "app_name": "Batch Clipboard",
@@ -6867,11 +6867,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord - Talk, Play, Hang Out",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-20",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/39/d6/b539d6cf-7bc4-2806-f8e0-5a509ae3885d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "Sq8bYSnJ": {
@@ -7002,11 +7002,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-19",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/c9/00/56c900c0-46df-b006-b662-2507a98f43c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "eHAKJBtM": {
@@ -7065,11 +7065,11 @@
     },
     "qC1ZnReJ": {
       "app_name": "Minecraft Preview",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-10-31",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/03/c0/c903c05b-fa9a-1b8e-ee80-1022c9044059/AppIcon-beta-0-0-1x_U007emarketing-0-10-0-85-220.png/120x120bb-80.png"
     },
     "lsd9mugy": {
@@ -7079,7 +7079,7 @@
         "ios"
       ],
       "last_modify": "2026-10-26",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/2c/3e/562c3e49-3476-42a4-c7ed-798c90c08a4d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/a1/8d/d9a18d28-5b3b-ed74-aa10-7718b94f40a6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/120x120bb-80.png"
     },
     "yYjKTTlT": {
       "app_name": "MLBB Beta",
@@ -7102,11 +7102,11 @@
     },
     "jOahtut6": {
       "app_name": "MSN",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-11-21",
+      "last_modify": "2026-11-26",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/fc/82/18fc8289-37c5-4999-58a7-86b7eacdb6d9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/120x120bb-80.png"
     },
     "uaazZoIc": {
@@ -7152,7 +7152,7 @@
         "ios"
       ],
       "last_modify": "2026-08-14",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/8f/52/888f528a-2a98-1aa6-18a7-4c13bce8d255/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/1d/f3/c01df34e-fee6-9970-1fb4-b0fa8aeea43d/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/120x120bb-80.png"
     },
     "iPWLRpZu": {
       "app_name": "Onion Browser",
@@ -7325,7 +7325,7 @@
         "ios"
       ],
       "last_modify": "2026-10-01",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/4e/c4/3f4ec481-e9c4-586e-2be8-077c6479c3d6/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f4/58/13f4580a-82dd-e78a-d11b-c7181deb8f51/AppIcon_TestFlight-0-0-1x_U007epad-0-1-0-85-220.png/120x120bb-80.png"
     },
     "l72L1OK3": {
       "app_name": "waipu.tv - Live TV Streaming",
@@ -7397,7 +7397,7 @@
         "ios"
       ],
       "last_modify": "2026-10-16",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/d0/df/ebd0df99-7b73-c966-7af8-cf03d2c2db27/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e1/53/e2e15345-92b3-9f4b-9a0d-7b24d5a00564/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "9JaSzwSN": {
       "app_name": "腾讯视频HD-《多喜一家人》独播",
@@ -7406,11 +7406,11 @@
         "ios"
       ],
       "last_modify": "2026-11-24",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/82/87/528287d1-fa24-2b72-acd0-eeb596044c35/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/8b/d2/3c8bd268-cac5-2853-9e29-8f10c45d0a11/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/120x120bb-80.png"
     },
     "wUz8czx3": {
       "app_name": "豆包输入法 - 豆包同款语音输入",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
